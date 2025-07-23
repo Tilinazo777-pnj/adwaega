@@ -1506,3 +1506,61 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 23:31:14.986] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [23Jul2025 23:31:14.986] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
 [23Jul2025 23:32:29.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 3.617529954469319,0.0,9.338145709127303
+[23Jul2025 23:34:05.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[23Jul2025 23:34:44.177] [Server thread/INFO] [Scaling Health/]: Blight Glow Squid has died
+[23Jul2025 23:34:56.665] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:34:56.665] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 23:35:05.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[23Jul2025 23:35:11.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Stymphalian Bird
+[23Jul2025 23:35:37.207] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/143704, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 23:35:37.207] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/143704, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 23:35:37.208] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/143704, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 23:35:37.208] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@6aad8ca1, net.minecraft.world.item.trading.MerchantOffer@43be4e79, net.minecraft.world.item.trading.MerchantOffer@60c6c99e, net.minecraft.world.item.trading.MerchantOffer@3ec7d399, net.minecraft.world.item.trading.MerchantOffer@38099864] for Humanoid['entity.easy_npc.humanoid'/143704, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 23:36:15.897] [Server thread/INFO] [Scaling Health/]: Blight Iron Golem was killed by C0LIGAMES
+[23Jul2025 23:36:18.157] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:36:18.158] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 23:36:27.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[23Jul2025 23:36:28.782] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[23Jul2025 23:36:30.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Stymphalian Bird
+[23Jul2025 23:38:28.155] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:38:28.155] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 23:38:37.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[23Jul2025 23:38:39.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Stymphalian Bird
+[23Jul2025 23:39:15.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Azad'/138617, l='ServerLevel[world]', x=-2000.74, y=98.00, z=31.50] died, message: 'Azad was burnt to a crisp whilst fighting C0LIGAMES'
+[23Jul2025 23:39:15.025] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Azad'/138617, l='ServerLevel[world]', x=-2000.74, y=98.00, z=31.50] died: Azad was burnt to a crisp whilst fighting C0LIGAMES
+[23Jul2025 23:39:34.871] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:39:34.871] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 23:39:42.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[23Jul2025 23:39:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Stymphalian Bird
+[23Jul2025 23:40:01.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[23Jul2025 23:40:13.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mihail'/138708, l='ServerLevel[world]', x=-2016.54, y=113.94, z=25.55] died, message: 'Mihail was slain by Zombie'
+[23Jul2025 23:40:13.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mihail'/138708, l='ServerLevel[world]', x=-2016.54, y=113.94, z=25.55] died: Mihail was slain by Zombie
+[23Jul2025 23:40:19.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[23Jul2025 23:40:19.981] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:40:19.981] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 23:40:37.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2743ms or 54 ticks behind
+[23Jul2025 23:40:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Stymphalian Bird
+[23Jul2025 23:40:56.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3758ms or 75 ticks behind
+[23Jul2025 23:40:56.797] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:40:56.797] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 23:41:12.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Stymphalian Bird
+[23Jul2025 23:41:15.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4454ms or 89 ticks behind
+[23Jul2025 23:41:19.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Stymphalian Bird
+[23Jul2025 23:41:19.048] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_23.07.2025-23.41.19.dat
+[23Jul2025 23:41:20.698] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:41:20.698] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 23:41:22.526] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/152397, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 23:41:22.526] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/152397, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 23:41:22.527] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/152397, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 23:41:22.527] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@c3087fb, net.minecraft.world.item.trading.MerchantOffer@29811ffb, net.minecraft.world.item.trading.MerchantOffer@7e89662, net.minecraft.world.item.trading.MerchantOffer@4b81ace5, net.minecraft.world.item.trading.MerchantOffer@4386f531] for Humanoid['entity.easy_npc.humanoid'/152397, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 23:41:26.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> X
+[23Jul2025 23:41:30.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> TF
+[23Jul2025 23:41:31.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:42:15.442] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:42:15.442] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 23:42:20.368] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[23Jul2025 23:42:34.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 9.458832498771812,-3.205614195384058,2.63145381133063
+[23Jul2025 23:42:42.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6813ms or 136 ticks behind
+[23Jul2025 23:42:44.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Stymphalian Bird
+[23Jul2025 23:44:22.791] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:44:22.791] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

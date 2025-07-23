@@ -6523,9 +6523,63 @@
     },
     "done": true
   },
+  "spartanfire:recipes/lightning_dragon_bone_parrying_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_pike": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_helmet": {
     "criteria": {
       "has_item": "2025-07-23 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_boomerang": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_greatsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_longsword": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_dagger": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_rapier": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_longbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_glaive": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
     },
     "done": true
   },
@@ -6535,9 +6589,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 23:39:23 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_lance": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_battleaxe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_javelin": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_katana": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_deepblue_to_sea_serpent_scale_block_deepblue": {
     "criteria": {
       "has_sea_serpent_scales_deepblue": "2025-07-23 23:27:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-07-23 23:39:23 +0000"
     },
     "done": true
   },
@@ -6553,9 +6649,39 @@
     },
     "done": true
   },
+  "spartanfire:recipes/lightning_dragon_bone_tomahawk": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_halberd": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_flanged_mace": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
   "mca:baby": {
     "criteria": {
       "baby": "2025-07-23 22:59:27 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_quarterstaff": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_throwing_knife": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
     },
     "done": true
   },
@@ -6577,6 +6703,36 @@
     },
     "done": true
   },
+  "spartanfire:recipes/lightning_dragon_bone_warhammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_spear": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_heavy_crossbow": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-07-23 23:39:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-07-23 23:39:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_deepblue_boots": {
     "criteria": {
       "has_item": "2025-07-23 23:27:47 +0000"
@@ -6595,6 +6751,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-23 23:36:39 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_scythe": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_battle_hammer": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-07-23 23:27:47 +0000"
@@ -6604,6 +6778,12 @@
   "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
     "criteria": {
       "has_sea_serpent_scales_green": "2025-07-23 23:28:16 +0000"
+    },
+    "done": true
+  },
+  "spartanfire:recipes/lightning_dragon_bone_saber": {
+    "criteria": {
+      "has_lightning_dragon_blood": "2025-07-23 23:38:17 +0000"
     },
     "done": true
   },
