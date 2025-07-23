@@ -1241,3 +1241,58 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 21:10:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MANDA
 [23Jul2025 21:11:48.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [What a Deal!]
 [23Jul2025 21:17:53.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Once Upon a Cave]
+[23Jul2025 21:22:19.375] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Joaquim}[style={}] has been infected
+[23Jul2025 21:22:19.376] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Joaquim'/50, l='ServerLevel[world]', x=-1114.23, y=130.00, z=-662.62] died, message: 'Joaquim was slain by Zombie'
+[23Jul2025 21:22:19.376] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Joaquim'/50, l='ServerLevel[world]', x=-1114.23, y=130.00, z=-662.62] died: Joaquim was slain by Zombie
+[23Jul2025 21:23:10.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[23Jul2025 21:33:27.002] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/71296, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 21:33:27.003] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/71296, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 21:33:27.003] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/71296, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 21:33:27.003] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@662a2ef7, net.minecraft.world.item.trading.MerchantOffer@2ac5b687, net.minecraft.world.item.trading.MerchantOffer@3909ee4, net.minecraft.world.item.trading.MerchantOffer@61c27871, net.minecraft.world.item.trading.MerchantOffer@5628bf28] for Humanoid['entity.easy_npc.humanoid'/71296, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 21:35:03.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Made Anzu_ara a server operator]
+[23Jul2025 21:35:25.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported Anzu_ara to -1062.360000, 115.000000, -744.530000]
+[23Jul2025 21:35:49.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Anzu_ara: Player data reset.]
+[23Jul2025 21:35:51.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> WTF
+[23Jul2025 21:35:55.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> EL ADMIN
+[23Jul2025 21:35:59.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[23Jul2025 21:36:06.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Made Anzu_ara no longer a server operator]
+[23Jul2025 21:36:07.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya
+[23Jul2025 21:36:09.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[23Jul2025 21:36:09.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Jul2025 21:36:09.079] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Jul2025 21:36:14.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:58235] logged in with entity id 72185 at (-1063.21460072435, 115.0, -745.8408652678538)
+[23Jul2025 21:36:14.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[23Jul2025 21:36:14.257] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[23Jul2025 21:36:14.603] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[23Jul2025 21:36:14.604] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Jul2025 21:36:20.539] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 21:36:21.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 21:36:21.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[23Jul2025 21:37:25.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7 timed out
+[23Jul2025 21:37:25.109] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player C0LIGAMES
+[23Jul2025 21:37:25.110] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Jul2025 21:37:44.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[23Jul2025 21:37:44.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Jul2025 21:37:44.289] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Jul2025 21:37:44.342] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Jul2025 21:38:06.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! 7.247715508610554,-7.190076200887109,0.0
+[23Jul2025 21:39:10.530] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a4478fd[id=<null>,name=C0LIGAMES,properties={},legacy=false] (/127.53.118.236:58785) lost connection: Disconnected
+[23Jul2025 21:39:18.250] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:51043] logged in with entity id 73355 at (-1072.1618494630807, 115.0, -722.8160848346721)
+[23Jul2025 21:39:18.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[23Jul2025 21:39:18.348] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[23Jul2025 21:39:18.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[23Jul2025 21:39:18.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Jul2025 21:39:20.729] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 21:39:21.730] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 21:39:21.731] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[23Jul2025 21:43:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> zzzzzz
+[23Jul2025 21:46:26.696] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/75737, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 21:46:26.697] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/75737, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 21:46:26.697] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/75737, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 21:46:26.697] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@5e3ae904, net.minecraft.world.item.trading.MerchantOffer@3d419bde, net.minecraft.world.item.trading.MerchantOffer@38cdc1f4, net.minecraft.world.item.trading.MerchantOffer@108fd6d3, net.minecraft.world.item.trading.MerchantOffer@19f47f0f] for Humanoid['entity.easy_npc.humanoid'/75737, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 21:47:21.446] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/76076, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 21:47:21.447] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/76076, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 21:47:21.447] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/76076, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 21:47:21.447] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@5ed89632, net.minecraft.world.item.trading.MerchantOffer@35f901e9, net.minecraft.world.item.trading.MerchantOffer@4c2924e1, net.minecraft.world.item.trading.MerchantOffer@36d97666, net.minecraft.world.item.trading.MerchantOffer@2caa0f89] for Humanoid['entity.easy_npc.humanoid'/76076, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 21:49:17.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> WTF'
+[23Jul2025 21:50:21.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [The Bender of the 15th Century]
