@@ -851,3 +851,23 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 18:37:36.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ayudame
 [23Jul2025 18:37:39.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> vas a ir al spawn?
 [23Jul2025 18:37:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> deja saco la seed
+[23Jul2025 18:38:05.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [3755446018409854709]
+[23Jul2025 18:38:15.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> como hago pa tener siempre activo el micro?
+[23Jul2025 18:40:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZ
+[23Jul2025 18:42:37.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was killed by magic
+[23Jul2025 18:42:39.397] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 18:42:39.397] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 18:42:39.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 18:43:45.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[23Jul2025 18:43:45.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Jul2025 18:43:45.225] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Jul2025 18:43:50.201] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:32875] logged in with entity id 4859 at (-1067.3348262555992, 115.0, -726.8720843507479)
+[23Jul2025 18:43:50.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[23Jul2025 18:43:50.319] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[23Jul2025 18:43:50.751] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[23Jul2025 18:43:50.751] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Jul2025 18:43:53.581] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 18:43:54.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 18:43:54.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[23Jul2025 18:44:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 0 - 208
+[23Jul2025 18:46:46.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 10.00659585410034,-2.9703989891052487,0.5966417751770905
