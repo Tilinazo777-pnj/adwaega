@@ -895,3 +895,6 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 19:01:37.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Who is Cutting Onions?]
 [23Jul2025 19:03:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> -288 - 80
 [23Jul2025 19:05:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 944 . 288
+[23Jul2025 19:18:10.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! -3.691796089791808,9.616228136508639,-1.2539529790488473
+[23Jul2025 19:19:33.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> no es mio xD
+[23Jul2025 19:24:21.851] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})

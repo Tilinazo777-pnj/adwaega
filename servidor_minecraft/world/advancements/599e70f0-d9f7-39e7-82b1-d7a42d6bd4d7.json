@@ -25,6 +25,7 @@
       "minecraft:frozen_river": "2025-07-23 18:47:33 +0000",
       "minecraft:cherry_grove": "2025-07-13 03:59:17 +0000",
       "minecraft:sunflower_plains": "2025-07-13 03:56:17 +0000",
+      "minecraft:windswept_hills": "2025-07-23 19:15:48 +0000",
       "minecraft:beach": "2025-07-12 19:58:58 +0000",
       "minecraft:river": "2025-07-12 19:46:31 +0000",
       "minecraft:snowy_plains": "2025-07-23 18:46:45 +0000",
@@ -3023,6 +3024,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-07-13 03:57:54 +0000",
+      "entered_druid_circle": "2025-07-23 19:11:48 +0000",
       "entered_watch_tower": "2025-07-12 21:40:07 +0000",
       "entered_ruined_building": "2025-07-13 03:52:44 +0000"
     },
@@ -6084,9 +6086,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-07-23 19:12:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_axe": "2025-07-23 19:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 19:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 19:12:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 19:12:24 +0000"
     },
     "done": true
   },
@@ -6108,9 +6134,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 19:12:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-07-23 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-23 19:12:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-23 19:09:14 +0000"
     },
     "done": true
   },
@@ -6138,6 +6182,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-23 19:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-07-23 18:46:57 +0000"
@@ -6150,9 +6200,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-07-23 19:15:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-07-23 19:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 19:12:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 19:15:12 +0000"
     },
     "done": true
   },
@@ -6165,6 +6233,18 @@
   "farmersdelight:recipes/building_blocks/cabbage_crate": {
     "criteria": {
       "has_cabbage": "2025-07-23 18:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-23 19:12:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-23 19:15:12 +0000"
     },
     "done": true
   },
