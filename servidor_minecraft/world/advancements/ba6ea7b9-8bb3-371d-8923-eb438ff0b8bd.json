@@ -900,6 +900,7 @@
       "golden_apple": "2025-07-21 22:11:28 +0000",
       "rotten_flesh": "2025-07-13 23:26:24 +0000",
       "salmon": "2025-07-19 01:29:34 +0000",
+      "melon_slice": "2025-07-23 23:26:43 +0000",
       "cooked_chicken": "2025-07-12 21:02:55 +0000",
       "enchanted_golden_apple": "2025-07-22 00:08:56 +0000",
       "cod": "2025-07-12 21:12:30 +0000",
@@ -5765,6 +5766,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-23 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-23 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-23 23:26:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2025-07-23 23:19:06 +0000"
@@ -5774,6 +5793,30 @@
   "travelersbackpack:recipes/misc/fox_smithing": {
     "criteria": {
       "has_fox": "2025-07-23 23:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-23 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-23 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-23 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-07-23 23:26:38 +0000"
     },
     "done": true
   },
