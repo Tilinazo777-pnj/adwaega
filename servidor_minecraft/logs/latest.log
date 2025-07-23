@@ -871,3 +871,27 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 18:43:54.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
 [23Jul2025 18:44:10.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 0 - 208
 [23Jul2025 18:46:46.521] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 10.00659585410034,-2.9703989891052487,0.5966417751770905
+[23Jul2025 18:48:04.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ADMINNN
+[23Jul2025 18:48:15.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Spectator Mode
+[23Jul2025 18:50:01.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> pera salgo un rato a pasear el perro
+[23Jul2025 18:50:04.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[23Jul2025 18:50:04.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 18:50:04.627] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 18:50:18.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set C0LIGAMES's game mode to Survival Mode
+[23Jul2025 18:50:21.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ahora si admin XD
+[23Jul2025 18:51:34.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=35, y=63, z=-358} BlockPos{x=35, y=62, z=-358}
+[23Jul2025 18:52:45.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZ
+[23Jul2025 18:57:54.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:35451] logged in with entity id 10492 at (-1090.7088028886806, -5.0, -770.5803236479022)
+[23Jul2025 18:57:54.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 18:57:54.653] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 18:57:55.067] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 18:57:55.068] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 18:57:56.542] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 18:57:56.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 18:57:57.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 18:57:57.545] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[23Jul2025 18:58:00.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y volo
+[23Jul2025 18:58:20.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd???
+[23Jul2025 19:01:37.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Who is Cutting Onions?]
+[23Jul2025 19:03:05.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> -288 - 80
+[23Jul2025 19:05:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> 944 . 288

@@ -22,18 +22,24 @@
       "minecraft:snowy_slopes": "2025-07-13 03:53:39 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-12 20:15:59 +0000",
       "minecraft:taiga": "2025-07-12 20:10:23 +0000",
+      "minecraft:frozen_river": "2025-07-23 18:47:33 +0000",
       "minecraft:cherry_grove": "2025-07-13 03:59:17 +0000",
       "minecraft:sunflower_plains": "2025-07-13 03:56:17 +0000",
       "minecraft:beach": "2025-07-12 19:58:58 +0000",
       "minecraft:river": "2025-07-12 19:46:31 +0000",
+      "minecraft:snowy_plains": "2025-07-23 18:46:45 +0000",
       "minecraft:dripstone_caves": "2025-07-13 03:59:04 +0000",
+      "minecraft:snowy_taiga": "2025-07-23 18:46:39 +0000",
       "minecraft:grove": "2025-07-13 03:55:30 +0000",
+      "minecraft:swamp": "2025-07-23 19:06:56 +0000",
+      "minecraft:cold_ocean": "2025-07-23 19:05:32 +0000",
       "minecraft:forest": "2025-07-12 19:45:27 +0000",
       "minecraft:lush_caves": "2025-07-12 20:33:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-12 20:55:41 +0000",
       "minecraft:flower_forest": "2025-07-13 03:55:47 +0000",
       "minecraft:deep_dark": "2025-07-13 03:59:55 +0000",
       "minecraft:meadow": "2025-07-12 21:52:28 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-23 19:04:08 +0000",
       "minecraft:savanna": "2025-07-13 03:55:38 +0000",
       "minecraft:plains": "2025-07-11 00:23:49 +0000"
     },
@@ -6069,6 +6075,96 @@
   "spartanfire:recipes/misc/witherbone_pole_from_wool": {
     "criteria": {
       "has_witherbone": "2025-07-23 18:32:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-07-23 19:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-07-23 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-07-23 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 18:51:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-07-23 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-07-23 19:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-07-23 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-07-23 19:00:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cabbage_rolls": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-23 18:51:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-23 18:46:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-07-23 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-07-23 19:01:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-07-23 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/cabbage_crate": {
+    "criteria": {
+      "has_cabbage": "2025-07-23 18:51:24 +0000"
     },
     "done": true
   },
