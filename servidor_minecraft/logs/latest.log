@@ -1307,3 +1307,103 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 22:01:07.680] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [23Jul2025 22:01:07.680] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
 [23Jul2025 22:01:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> zzz
+[23Jul2025 22:02:44.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
+[23Jul2025 22:02:44.874] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_23.07.2025-22.02.44.dat
+[23Jul2025 22:02:46.102] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 22:02:46.102] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 22:05:47.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ZZZZZ
+[23Jul2025 22:10:19.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CUEVA DESOLAADA
+[23Jul2025 22:15:34.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ADMIN QUIKEALO}
+[23Jul2025 22:15:39.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1196, y=90, z=-995} BlockPos{x=-1196, y=89, z=-995}
+[23Jul2025 22:16:26.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 22:22:18.691] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1128, y=131, z=-1151} BlockPos{x=-1128, y=129, z=-1151}
+[23Jul2025 22:22:18.746] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1128, y=131, z=-1151} BlockPos{x=-1128, y=129, z=-1151}
+[23Jul2025 22:22:18.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1128, y=131, z=-1151} BlockPos{x=-1128, y=129, z=-1151}
+[23Jul2025 22:22:25.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1129, y=132, z=-1152} BlockPos{x=-1129, y=131, z=-1152}
+[23Jul2025 22:26:02.641] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{joaocover})
+[23Jul2025 22:27:53.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Voluntary Exile]
+[23Jul2025 22:32:43.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Who's the Pillager Now?]
+[23Jul2025 22:33:15.595] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/99260, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 22:33:15.595] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/99260, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 22:33:15.595] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/99260, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 22:33:15.596] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@4af4726d, net.minecraft.world.item.trading.MerchantOffer@37c84a3f, net.minecraft.world.item.trading.MerchantOffer@d1b3420, net.minecraft.world.item.trading.MerchantOffer@fcc5f6d, net.minecraft.world.item.trading.MerchantOffer@66c223e3] for Humanoid['entity.easy_npc.humanoid'/99260, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 22:34:13.206] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[23Jul2025 22:34:13.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[23Jul2025 22:34:13.207] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[23Jul2025 22:34:56.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:49599] logged in with entity id 100156 at (-1468.7892537542134, 135.55321338701523, -1283.3895082206047)
+[23Jul2025 22:34:56.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[23Jul2025 22:34:56.990] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[23Jul2025 22:34:57.780] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[23Jul2025 22:34:57.780] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[23Jul2025 22:34:59.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 22:35:00.392] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[23Jul2025 22:35:00.393] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[23Jul2025 22:42:55.101] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[23Jul2025 22:43:07.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[23Jul2025 22:43:07.574] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_23.07.2025-22.43.07.dat
+[23Jul2025 22:43:09.479] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 22:43:09.479] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 22:46:36.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 timed out
+[23Jul2025 22:46:36.419] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Anzu_ara
+[23Jul2025 22:46:36.420] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 22:46:51.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[23Jul2025 22:46:51.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 22:46:51.179] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 22:47:30.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:43553] logged in with entity id 106120 at (-1075.300000011921, 59.0, -779.3052519104173)
+[23Jul2025 22:47:30.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 22:47:30.479] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 22:47:32.184] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 22:47:32.185] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 22:47:42.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 22:47:43.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 22:47:43.840] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[23Jul2025 22:49:42.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [A Bigger Blade]
+[23Jul2025 22:51:01.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.221060746943067,10.860874033392548,0.12393475152009614
+[23Jul2025 22:52:11.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 9.274785007796254,0.0,-4.010387178412088
+[23Jul2025 22:53:40.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has completed the challenge [Hero of the Village]
+[23Jul2025 22:54:05.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> kick a anzu?
+[23Jul2025 22:58:14.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 1.5313347283361054,3.8245767040478995,-9.580882894709418
+[23Jul2025 22:59:27.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 22:59:27.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Next Generation]
+[23Jul2025 22:59:35.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> anzu
+[23Jul2025 22:59:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:00:21.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -5.382146540049007,1.0,8.618147885822964
+[23Jul2025 23:00:59.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:03:07.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ZZZ
+[23Jul2025 23:03:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZZ
+[23Jul2025 23:04:15.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara drowned
+[23Jul2025 23:04:18.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:04:51.844] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:04:51.844] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 23:05:44.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by C0LIGAMES
+[23Jul2025 23:05:45.655] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:05:45.655] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 23:05:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:07:01.896] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/115367, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 23:07:01.896] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/115367, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 23:07:01.896] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/115367, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 23:07:01.896] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@7938466c, net.minecraft.world.item.trading.MerchantOffer@7e023657, net.minecraft.world.item.trading.MerchantOffer@4bf62468, net.minecraft.world.item.trading.MerchantOffer@7c6be980, net.minecraft.world.item.trading.MerchantOffer@475bdb47] for Humanoid['entity.easy_npc.humanoid'/115367, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 23:08:45.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 timed out
+[23Jul2025 23:08:45.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Anzu_ara
+[23Jul2025 23:08:45.560] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 23:09:02.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[23Jul2025 23:09:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[23Jul2025 23:09:02.788] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[23Jul2025 23:09:17.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:47803] logged in with entity id 116378 at (-1057.0699275102734, 116.0, -707.2443696089256)
+[23Jul2025 23:09:17.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[23Jul2025 23:09:17.229] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[23Jul2025 23:09:17.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[23Jul2025 23:09:17.696] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[23Jul2025 23:09:31.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 23:09:32.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[23Jul2025 23:09:32.940] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[23Jul2025 23:09:32.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ya me esta llendo mal xd
+[23Jul2025 23:10:36.497] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/117210, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 23:10:36.497] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/117210, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 23:10:36.498] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/117210, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 23:10:36.498] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@2905ecca, net.minecraft.world.item.trading.MerchantOffer@296d9c2e, net.minecraft.world.item.trading.MerchantOffer@40946891, net.minecraft.world.item.trading.MerchantOffer@21a93ca8, net.minecraft.world.item.trading.MerchantOffer@274cf7eb] for Humanoid['entity.easy_npc.humanoid'/117210, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 23:12:31.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[23Jul2025 23:12:31.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 23:12:31.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 23:12:43.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> 7-7
+[23Jul2025 23:12:44.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> DONDE ESTA JOAQUIN?
