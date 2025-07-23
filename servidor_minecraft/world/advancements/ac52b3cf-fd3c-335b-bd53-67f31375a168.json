@@ -4535,6 +4535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-23 21:13:48 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
     "criteria": {
       "has_iron_knife": "2025-07-23 20:46:56 +0000"
@@ -4550,6 +4556,12 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-07-23 20:34:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-23 21:11:48 +0000"
     },
     "done": true
   },
