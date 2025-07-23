@@ -6267,5 +6267,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/cockatrice_scepter": {
+    "criteria": {
+      "has_item": "2025-07-23 20:28:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
