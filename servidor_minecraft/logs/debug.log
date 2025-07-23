@@ -14876,3 +14876,78 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 21:50:21.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [The Bender of the 15th Century]
 [23Jul2025 21:50:23.930] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
 [23Jul2025 21:51:44.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:51:44.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:51:46.855] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:51:51.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:51:53.403] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:51:54.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:03.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:06.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:08.154] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:10.251] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:16.473] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:52:16.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:16.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 21:52:19.422] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:52:19.906] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:19.907] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 21:52:19.993] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:22.569] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:52:22.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:22.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 21:52:23.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:24.389] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:25.324] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:52:25.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:25.790] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 21:52:25.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:26.094] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:26.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:26.507] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:26.688] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:27.188] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:29.623] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:52:30.190] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:30.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:52:30.539] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 21:53:14.594] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 21:53:14.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 21:53:16.671] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:54:37.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=832.84, y=-18.00, z=537.30], dimensionLocationPath overworld
+[23Jul2025 21:54:37.079] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=832.84, y=-18.00, z=537.30] in list []
+[23Jul2025 21:55:02.583] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=833.11, y=-18.00, z=539.59]
+[23Jul2025 21:55:05.128] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:55:05.133] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/78572, l='ServerLevel[world]', x=835.59, y=-17.47, z=540.65], dimensionLocationPath overworld
+[23Jul2025 21:55:05.133] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/78572, l='ServerLevel[world]', x=835.59, y=-17.47, z=540.65] in list []
+[23Jul2025 21:55:09.107] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/78572, l='ServerLevel[world]', x=835.13, y=-19.00, z=541.62, removed=DISCARDED]
+[23Jul2025 21:55:09.731] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=837.08, y=-18.00, z=542.68], dimensionLocationPath overworld
+[23Jul2025 21:55:09.731] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=837.08, y=-18.00, z=542.68] in list []
+[23Jul2025 21:55:20.735] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=831.46, y=-32.00, z=557.40]
+[23Jul2025 21:55:23.629] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=830.70, y=-32.00, z=556.88], dimensionLocationPath overworld
+[23Jul2025 21:55:23.630] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=830.70, y=-32.00, z=556.88] in list []
+[23Jul2025 21:55:37.289] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['joaocover'/62843, l='ServerLevel[world]', x=807.47, y=-32.00, z=523.17]
+[23Jul2025 21:55:40.574] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:55:41.571] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:55:46.875] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:55:47.379] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:56:33.235] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[23Jul2025 21:56:33.235] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[23Jul2025 21:57:18.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bilal'/70511, l='ServerLevel[world]', x=793.32, y=23.02, z=591.16] died, message: 'Bilal was slain by Zombie'
+[23Jul2025 21:57:18.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bilal'/70511, l='ServerLevel[world]', x=793.32, y=23.02, z=591.16] died: Bilal was slain by Zombie
+[23Jul2025 21:58:14.602] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 21:58:14.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 21:58:38.031] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:58:38.529] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:58:59.133] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:59:11.033] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 21:59:49.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! 0.2889393385382846,0.5686351021062137,-10.30510742332865
+[23Jul2025 22:00:01.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.0,10.986000464041751,0.0
+[23Jul2025 22:01:03.384] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 22:01:06.481] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 22:01:06.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[23Jul2025 22:01:06.486] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_23.07.2025-22.01.06.dat
+[23Jul2025 22:01:07.679] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 22:01:07.680] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 22:01:07.680] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 22:01:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> zzz
+[23Jul2025 22:02:03.885] [Server thread/DEBUG] [firstaid/]: Reloaded lookups

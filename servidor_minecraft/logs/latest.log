@@ -1296,3 +1296,14 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 21:47:21.447] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@5ed89632, net.minecraft.world.item.trading.MerchantOffer@35f901e9, net.minecraft.world.item.trading.MerchantOffer@4c2924e1, net.minecraft.world.item.trading.MerchantOffer@36d97666, net.minecraft.world.item.trading.MerchantOffer@2caa0f89] for Humanoid['entity.easy_npc.humanoid'/76076, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
 [23Jul2025 21:49:17.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> WTF'
 [23Jul2025 21:50:21.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [The Bender of the 15th Century]
+[23Jul2025 21:56:33.235] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[23Jul2025 21:56:33.235] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[23Jul2025 21:57:18.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Bilal'/70511, l='ServerLevel[world]', x=793.32, y=23.02, z=591.16] died, message: 'Bilal was slain by Zombie'
+[23Jul2025 21:57:18.079] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Bilal'/70511, l='ServerLevel[world]', x=793.32, y=23.02, z=591.16] died: Bilal was slain by Zombie
+[23Jul2025 21:59:49.289] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! 0.2889393385382846,0.5686351021062137,-10.30510742332865
+[23Jul2025 22:00:01.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 0.0,10.986000464041751,0.0
+[23Jul2025 22:01:06.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[23Jul2025 22:01:06.486] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_23.07.2025-22.01.06.dat
+[23Jul2025 22:01:07.680] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 22:01:07.680] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 22:01:11.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> zzz
