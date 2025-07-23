@@ -1407,3 +1407,56 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 23:12:31.239] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
 [23Jul2025 23:12:43.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> 7-7
 [23Jul2025 23:12:44.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> DONDE ESTA JOAQUIN?
+[23Jul2025 23:12:49.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> ???
+[23Jul2025 23:12:53.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> joaquin?
+[23Jul2025 23:13:01.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> lo dormiste no?
+[23Jul2025 23:13:04.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> guarde a todos los que vi pero faltaban 2
+[23Jul2025 23:13:10.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:13:13.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by C0LIGAMES
+[23Jul2025 23:13:15.799] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:13:15.799] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 23:13:18.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:13:23.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya pis
+[23Jul2025 23:13:28.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> bueno
+[23Jul2025 23:13:31.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> has tu hause
+[23Jul2025 23:13:35.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd esa es
+[23Jul2025 23:13:37.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ire al spawn
+[23Jul2025 23:13:43.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a la mega structura que encontraste
+[23Jul2025 23:14:00.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[23Jul2025 23:18:23.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:51405] logged in with entity id 119585 at (1475.699999988079, 66.0, 425.69999998807907)
+[23Jul2025 23:18:23.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 23:18:23.561] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 23:18:24.329] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 23:18:24.330] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 23:18:27.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 23:18:28.322] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 23:18:28.323] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[23Jul2025 23:18:33.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> wenas
+[23Jul2025 23:19:06.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Would you Like to Know More?]
+[23Jul2025 23:19:44.253] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.228.234.214:45035] logged in with entity id 120266 at (1070.758293589671, 64.0, 2009.9750437960063)
+[23Jul2025 23:19:44.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
+[23Jul2025 23:19:44.281] [Server thread/INFO] [Jade/]: Syncing config to asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0)
+[23Jul2025 23:19:46.159] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of asrielmanrique (18)
+[23Jul2025 23:19:46.160] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to asrielmanrique
+[23Jul2025 23:19:50.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> AGREGALO
+[23Jul2025 23:19:51.506] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 93160725-4002-3d1f-9267-650f17d3bbf0
+[23Jul2025 23:19:52.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:19:52.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 93160725-4002-3d1f-9267-650f17d3bbf0
+[23Jul2025 23:19:52.511] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0) successfully connected to voice chat
+[23Jul2025 23:20:10.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
+[23Jul2025 23:20:10.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
+[23Jul2025 23:20:10.797] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
+[23Jul2025 23:20:11.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[23Jul2025 23:20:16.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 23:20:19.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> DX
+[23Jul2025 23:23:06.149] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.228.234.214:43227] logged in with entity id 123633 at (1082.429561079954, 60.992160546264756, 2006.562462395012)
+[23Jul2025 23:23:06.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
+[23Jul2025 23:23:06.179] [Server thread/INFO] [Jade/]: Syncing config to asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0)
+[23Jul2025 23:23:06.983] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of asrielmanrique (18)
+[23Jul2025 23:23:06.983] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to asrielmanrique
+[23Jul2025 23:23:10.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 93160725-4002-3d1f-9267-650f17d3bbf0
+[23Jul2025 23:23:11.226] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 93160725-4002-3d1f-9267-650f17d3bbf0
+[23Jul2025 23:23:11.227] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0) successfully connected to voice chat
+[23Jul2025 23:23:16.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was shot by Stymphalian Bird
+[23Jul2025 23:23:19.701] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 23:23:19.701] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
