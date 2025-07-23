@@ -8252,3 +8252,178 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 18:27:21.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [23Jul2025 18:27:21.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [23Jul2025 18:27:21.081] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:45.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:45.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 18:27:50.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:50.233] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 18:27:50.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:50.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:50.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:50.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:51.593] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:53.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:27:53.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 18:27:57.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 18:28:09.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:28:11.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> todo es culpa de los gustavos xd
+[23Jul2025 18:28:14.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 18:28:14.619] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 18:28:14.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 18:28:27.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> pozo de pollos??????
+[23Jul2025 18:28:31.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si
+[23Jul2025 18:28:34.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> que crezcan+
+[23Jul2025 18:28:39.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> y ahi solo farmeamos comida
+[23Jul2025 18:28:40.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xD la misma cosa
+[23Jul2025 18:28:58.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:28:59.531] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:29:03.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:29:03.941] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:29:04.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 18:29:05.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> perdon
+[23Jul2025 18:29:06.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> oe
+[23Jul2025 18:29:09.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> mi aveeeee
+[23Jul2025 18:29:09.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> era para el pollo
+[23Jul2025 18:29:11.531] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:29:28.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> mis 6 crias peshoshas
+[23Jul2025 18:29:47.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> las vas a explotar conchuda
+[23Jul2025 18:29:57.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> nooooooooooo
+[23Jul2025 18:29:58.675] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Anzu_ara: {disabled=true, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=null}
+[23Jul2025 18:29:58.924] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Anzu_ara: {disabled=false, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=null}
+[23Jul2025 18:29:59.528] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Anzu_ara: {disabled=true, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=null}
+[23Jul2025 18:30:00.205] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Anzu_ara: {disabled=false, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=null}
+[23Jul2025 18:30:30.681] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of C0LIGAMES: {disabled=false, disconnected=false, uuid=599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7, name=C0LIGAMES, group=f03a702d-f77c-4e76-9f32-096c9f25292a}
+[23Jul2025 18:30:44.456] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Anzu_ara: {disabled=false, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=f03a702d-f77c-4e76-9f32-096c9f25292a}
+[23Jul2025 18:30:44.494] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Anzu_ara: {disabled=false, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=f03a702d-f77c-4e76-9f32-096c9f25292a}
+[23Jul2025 18:30:44.557] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of Anzu_ara: {disabled=false, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=f03a702d-f77c-4e76-9f32-096c9f25292a}
+[23Jul2025 18:30:50.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[23Jul2025 18:30:57.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> we se me escucha??
+[23Jul2025 18:31:42.903] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Anzu_ara: {disabled=true, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=f03a702d-f77c-4e76-9f32-096c9f25292a}
+[23Jul2025 18:31:48.355] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Anzu_ara: {disabled=false, disconnected=false, uuid=ac52b3cf-fd3c-335b-bd53-67f31375a168, name=Anzu_ara, group=f03a702d-f77c-4e76-9f32-096c9f25292a}
+[23Jul2025 18:32:17.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:18.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:18.731] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:20.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:21.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:21.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:23.227] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:23.228] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:23.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 18:32:26.829] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:26.829] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:26.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 18:32:26.928] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:27.831] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:27.831] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:28.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:28.429] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:29.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:29.030] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:29.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:29.582] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:30.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:30.230] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:31.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:31.129] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:32.542] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:32.542] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:32.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[23Jul2025 18:32:33.175] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:32:35.376] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:32:35.377] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 18:32:35.377] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 18:32:59.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD?
+[23Jul2025 18:33:02.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> on tas?
+[23Jul2025 18:33:13.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported Anzu_ara to -1077.550000, 114.000000, -720.150000]
+[23Jul2025 18:33:14.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jul2025 18:33:14.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jul2025 18:33:23.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['Anzu_ara'/575, l='ServerLevel[world]', x=-1075.54, y=114.00, z=-724.42], dimensionLocationPath overworld
+[23Jul2025 18:33:23.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['Anzu_ara'/575, l='ServerLevel[world]', x=-1075.54, y=114.00, z=-724.42] in list []
+[23Jul2025 18:33:23.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:24.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:24.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:25.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:26.076] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['Anzu_ara'/575, l='ServerLevel[world]', x=-1075.54, y=114.00, z=-724.42]
+[23Jul2025 18:33:26.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:27.491] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:29.285] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:29.937] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:30.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:31.153] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:31.743] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:32.332] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:39.476] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:40.080] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:40.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:41.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:41.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:42.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:33:45.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya XD
+[23Jul2025 18:33:47.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> te toca
+[23Jul2025 18:34:54.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.674] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[23Jul2025 18:34:57.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.676] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.677] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:34:57.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:35:02.227] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:35:44.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 18:36:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> yas?
+[23Jul2025 18:36:14.588] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:36:14.589] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:36:15.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:36:15.178] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:36:15.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[23Jul2025 18:36:17.750] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:36:17.751] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 18:36:17.751] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 18:36:28.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> PTMA
+[23Jul2025 18:36:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported Anzu_ara to -1079.890000, 114.000000, -731.190000]
+[23Jul2025 18:36:43.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 18:36:46.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> shuuu
+[23Jul2025 18:36:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya a farmear
+[23Jul2025 18:36:56.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:36:56.385] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:36:56.991] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:36:56.992] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:36:56.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[23Jul2025 18:36:57.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:36:58.630] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:36:58.630] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 18:36:58.631] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[23Jul2025 18:37:05.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:37:05.327] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:37:05.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:37:05.887] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:37:06.476] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:37:06.477] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:37:07.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[23Jul2025 18:37:07.029] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:37:07.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[23Jul2025 18:37:08.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 18:37:09.296] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[23Jul2025 18:37:09.297] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 18:37:09.297] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 18:37:12.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> mi turno
+[23Jul2025 18:37:18.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> nos XD
+[23Jul2025 18:37:21.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> espera
+[23Jul2025 18:37:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> dejame conseguir
+[23Jul2025 18:37:27.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> obsidiana
+[23Jul2025 18:37:29.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> llorosa
+[23Jul2025 18:37:31.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :>
+[23Jul2025 18:37:32.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> necesito eso
+[23Jul2025 18:37:36.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ayudame
+[23Jul2025 18:37:39.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> vas a ir al spawn?
+[23Jul2025 18:37:43.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> deja saco la seed
