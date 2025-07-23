@@ -1192,3 +1192,50 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 20:49:21.877] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Chi-Hyun}[style={}] has been infected
 [23Jul2025 20:50:26.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chi-Hyun'/10562, l='ServerLevel[world]', x=-1154.60, y=122.00, z=-639.59] died, message: 'Chi-Hyun was slain by Zombie'
 [23Jul2025 20:50:26.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Chi-Hyun'/10562, l='ServerLevel[world]', x=-1154.60, y=122.00, z=-639.59] died: Chi-Hyun was slain by Zombie
+[23Jul2025 20:51:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XDDDDDDDDD
+[23Jul2025 20:51:32.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> we matame xd me rompi la pata
+[23Jul2025 20:51:36.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> k
+[23Jul2025 20:51:44.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> pera te subo el volumen
+[23Jul2025 20:52:08.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[23Jul2025 20:52:08.946] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 20:52:08.946] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[23Jul2025 21:03:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> k
+[23Jul2025 21:04:26.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara drowned
+[23Jul2025 21:04:26.377] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[23Jul2025 21:04:26.377] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[23Jul2025 21:04:38.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara moved too quickly! 5.383020269009421,0.0,-8.703184468596191
+[23Jul2025 21:04:57.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:38787] logged in with entity id 61682 at (994.1917771853547, -24.0, 954.1378522219107)
+[23Jul2025 21:04:57.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 21:04:57.917] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 21:04:58.782] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 21:04:58.783] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 21:04:59.357] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/61725, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 21:04:59.358] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/61725, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 21:04:59.358] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/61725, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 21:04:59.358] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@54665997, net.minecraft.world.item.trading.MerchantOffer@2380f6ab, net.minecraft.world.item.trading.MerchantOffer@7190ceeb, net.minecraft.world.item.trading.MerchantOffer@174af8a4, net.minecraft.world.item.trading.MerchantOffer@7106b13b] for Humanoid['entity.easy_npc.humanoid'/61725, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 21:05:01.897] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 21:05:02.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 21:05:02.900] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[23Jul2025 21:05:59.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> HOLAS
+[23Jul2025 21:06:06.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> han pasado 89 años
+[23Jul2025 21:08:13.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[23Jul2025 21:08:13.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 21:08:13.487] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 21:08:30.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:55773] logged in with entity id 62843 at (994.4562275752903, -24.0, 958.7151429830469)
+[23Jul2025 21:08:30.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[23Jul2025 21:08:30.916] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[23Jul2025 21:08:31.664] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[23Jul2025 21:08:31.665] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[23Jul2025 21:08:32.399] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['entity.easy_npc.humanoid'/62886, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] ...
+[23Jul2025 21:08:32.399] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['entity.easy_npc.humanoid'/62886, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[23Jul2025 21:08:32.400] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['entity.easy_npc.humanoid'/62886, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50].
+[23Jul2025 21:08:32.400] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@19c88c28, net.minecraft.world.item.trading.MerchantOffer@75ec6f73, net.minecraft.world.item.trading.MerchantOffer@70b6abe3, net.minecraft.world.item.trading.MerchantOffer@1d6edd38, net.minecraft.world.item.trading.MerchantOffer@409abb71] for Humanoid['entity.easy_npc.humanoid'/62886, l='ServerLevel[world]', x=937.50, y=70.00, z=850.50]
+[23Jul2025 21:08:33.260] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 21:08:34.260] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[23Jul2025 21:08:34.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[23Jul2025 21:08:40.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> YA?
+[23Jul2025 21:08:45.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si
+[23Jul2025 21:09:44.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gamerule doImmediateRespawn is now set to: false]
+[23Jul2025 21:10:31.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> chat voz pe
+[23Jul2025 21:10:37.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> unete pis
+[23Jul2025 21:10:43.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> MANDA
