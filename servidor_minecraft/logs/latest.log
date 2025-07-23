@@ -1182,3 +1182,13 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [23Jul2025 20:38:43.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
 [23Jul2025 20:39:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> jojajo acepta
 [23Jul2025 20:39:21.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ok
+[23Jul2025 20:46:56.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Hunt and Gather]
+[23Jul2025 20:46:59.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 20:48:12.188] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[23Jul2025 20:48:12.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[23Jul2025 20:48:12.190] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[23Jul2025 20:48:14.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[23Jul2025 20:48:30.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> anzu habla pis
+[23Jul2025 20:49:21.877] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Chi-Hyun}[style={}] has been infected
+[23Jul2025 20:50:26.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Chi-Hyun'/10562, l='ServerLevel[world]', x=-1154.60, y=122.00, z=-639.59] died, message: 'Chi-Hyun was slain by Zombie'
+[23Jul2025 20:50:26.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Chi-Hyun'/10562, l='ServerLevel[world]', x=-1154.60, y=122.00, z=-639.59] died: Chi-Hyun was slain by Zombie
