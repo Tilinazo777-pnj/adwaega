@@ -5255,5 +5255,29 @@
     },
     "done": true
   },
+  "mca:baby": {
+    "criteria": {
+      "baby": "2025-07-24 22:19:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-24 22:20:05 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-24 22:20:05 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/sweet_berry_juice": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-24 22:20:05 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
