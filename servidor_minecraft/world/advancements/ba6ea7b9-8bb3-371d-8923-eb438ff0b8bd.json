@@ -5766,6 +5766,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-07-23 23:19:06 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/fox_smithing": {
+    "criteria": {
+      "has_fox": "2025-07-23 23:22:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-07-23 23:26:38 +0000"
@@ -5781,18 +5793,6 @@
   "toughasnails:recipes/food/melon_juice": {
     "criteria": {
       "has_melon_slice": "2025-07-23 23:26:38 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/lectern": {
-    "criteria": {
-      "bestiary": "2025-07-23 23:19:06 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/fox_smithing": {
-    "criteria": {
-      "has_fox": "2025-07-23 23:22:25 +0000"
     },
     "done": true
   },
@@ -5817,6 +5817,12 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-07-23 23:26:38 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-23 23:49:40 +0000"
     },
     "done": true
   },
