@@ -215,5 +215,9 @@
 		"599e70f0d9f739e782b1d7a42d6bd4d7:7C7DB74412C4EB6A": 1753313238436L
 		"599e70f0d9f739e782b1d7a42d6bd4d7:476BFBCAF7C6EDD7": 1753313238437L
 	}
-	player_data: { }
+	player_data: {
+		599e70f0d9f739e782b1d7a42d6bd4d7: {
+			can_edit: 1b
+		}
+	}
 }

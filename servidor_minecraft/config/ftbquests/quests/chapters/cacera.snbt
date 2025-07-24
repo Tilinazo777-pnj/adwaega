@@ -1129,7 +1129,7 @@
 				value: 1L
 			}]
 			x: -18.0d
-			y: -1.5d
+			y: -1.0d
 		}
 		{
 			can_repeat: true
@@ -1329,6 +1329,23 @@
 			}]
 			x: -6.0d
 			y: 4.5d
+		}
+		{
+			can_repeat: true
+			id: "35AC1823DE170CE3"
+			rewards: [{
+				id: "4735FF8ADC616170"
+				item: "dedsafio3:alma_gema"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mca:female_villager"
+				id: "287C413955A79DF5"
+				type: "kill"
+				value: 1L
+			}]
+			x: -18.0d
+			y: -2.0d
 		}
 	]
 	title: "Cacería"

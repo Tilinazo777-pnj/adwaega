@@ -975,3 +975,19 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Jul2025 23:06:01.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by C0LIGAMES
 [24Jul2025 23:06:01.650] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [24Jul2025 23:06:01.650] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jul2025 23:12:16.391] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@663ec1f9[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:54931) lost connection: Disconnected
+[24Jul2025 23:16:52.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[24Jul2025 23:16:53.995] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2aa83f62[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:39165) lost connection: Disconnected
+[24Jul2025 23:17:02.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[24Jul2025 23:17:02.613] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 23:17:02.613] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24Jul2025 23:17:53.348] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@574ad738[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:59241) lost connection: Disconnected
+[24Jul2025 23:18:40.899] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@df427ee[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:49441) lost connection: Disconnected
+[24Jul2025 23:19:23.742] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@198fb28a[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:58263) lost connection: Disconnected
+[24Jul2025 23:19:45.993] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4856fd7e[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:49931) lost connection: Disconnected
+[24Jul2025 23:20:19.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> anzu
+[24Jul2025 23:20:23.099] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c0754d0[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:55741) lost connection: Disconnected
+[24Jul2025 23:20:24.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> voy a matar un aldeano XD
+[24Jul2025 23:20:40.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> :> por?
+[24Jul2025 23:20:47.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a cierto
+[24Jul2025 23:20:50.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> es hombre XD
