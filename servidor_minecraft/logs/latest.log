@@ -35,3 +35,87 @@
 [24Jul2025 00:04:46.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ven
 [24Jul2025 00:04:54.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> rapido
 [24Jul2025 00:04:59.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6137ms or 122 ticks behind
+[24Jul2025 00:05:19.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5351ms or 107 ticks behind
+[24Jul2025 00:05:22.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> on tas?
+[24Jul2025 00:05:39.817] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4959ms or 99 ticks behind
+[24Jul2025 00:05:59.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4888ms or 97 ticks behind
+[24Jul2025 00:06:20.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6082ms or 121 ticks behind
+[24Jul2025 00:06:42.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6666ms or 133 ticks behind
+[24Jul2025 00:07:05.259] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7902ms or 158 ticks behind
+[24Jul2025 00:07:23.428] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3170ms or 63 ticks behind
+[24Jul2025 00:07:41.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2734ms or 54 ticks behind
+[24Jul2025 00:07:46.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> duerman
+[24Jul2025 00:07:48.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> duerman
+[24Jul2025 00:07:58.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2813ms or 56 ticks behind
+[24Jul2025 00:08:06.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [The Lighthouse]
+[24Jul2025 00:08:12.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> duerman
+[24Jul2025 00:08:13.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> rapido
+[24Jul2025 00:08:19.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Jul2025 00:08:20.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
+[24Jul2025 00:08:20.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[24Jul2025 00:08:20.387] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[24Jul2025 00:08:25.906] [Worker-Main-33/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Jul2025 00:08:25.906] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[24Jul2025 00:08:25.907] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[24Jul2025 00:08:30.554] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1221, y=18, z=2464} but found not block entity block Block{minecraft:water}[level=1] at location
+[24Jul2025 00:08:30.555] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1221, y=18, z=2464}
+[24Jul2025 00:08:33.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1252, y=18, z=2477} but found not block entity block Block{minecraft:water}[level=8] at location
+[24Jul2025 00:08:33.461] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=1252, y=18, z=2477}
+[24Jul2025 00:08:34.006] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1210, y=18, z=2480} but found not block entity block Block{minecraft:water}[level=1] at location
+[24Jul2025 00:08:34.007] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1210, y=18, z=2480}
+[24Jul2025 00:08:43.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1149, y=18, z=2480} but found not block entity block Block{minecraft:water}[level=1] at location
+[24Jul2025 00:08:43.108] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1149, y=18, z=2480}
+[24Jul2025 00:08:43.353] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1183, y=18, z=2480} but found not block entity block Block{minecraft:water}[level=0] at location
+[24Jul2025 00:08:43.353] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1183, y=18, z=2480}
+[24Jul2025 00:08:43.353] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1168, y=18, z=2480} but found not block entity block Block{minecraft:water}[level=1] at location
+[24Jul2025 00:08:43.353] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=1] but failed at location BlockPos{x=1168, y=18, z=2480}
+[24Jul2025 00:08:46.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
+[24Jul2025 00:08:46.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
+[24Jul2025 00:08:46.568] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
+[24Jul2025 00:08:49.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[24Jul2025 00:08:49.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[24Jul2025 00:08:49.779] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[24Jul2025 00:09:05.781] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:37187] logged in with entity id 186220 at (1087.6386116292115, 68.0, 1694.300000011921)
+[24Jul2025 00:09:05.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[24Jul2025 00:09:05.803] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[24Jul2025 00:09:06.466] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[24Jul2025 00:09:06.466] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[24Jul2025 00:09:07.540] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[24Jul2025 00:09:08.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[24Jul2025 00:09:08.541] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[24Jul2025 00:10:09.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ahora si sal
+[24Jul2025 00:10:12.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> para dormir
+[24Jul2025 00:10:14.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> rapido
+[24Jul2025 00:10:15.892] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[24Jul2025 00:10:15.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[24Jul2025 00:10:15.892] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[24Jul2025 00:10:15.924] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jul2025 00:10:47.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.228.234.214:37397] logged in with entity id 187037 at (1198.6420294322593, 77.0, 2295.9549598830686)
+[24Jul2025 00:10:47.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
+[24Jul2025 00:10:47.605] [Server thread/INFO] [Jade/]: Syncing config to asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0)
+[24Jul2025 00:10:48.268] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of asrielmanrique (18)
+[24Jul2025 00:10:48.268] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to asrielmanrique
+[24Jul2025 00:10:49.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:35027] logged in with entity id 187219 at (1099.5994820673834, 72.0, 1680.8413683108763)
+[24Jul2025 00:10:49.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[24Jul2025 00:10:49.732] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[24Jul2025 00:10:50.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 93160725-4002-3d1f-9267-650f17d3bbf0
+[24Jul2025 00:10:50.379] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[24Jul2025 00:10:50.379] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[24Jul2025 00:10:51.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 93160725-4002-3d1f-9267-650f17d3bbf0
+[24Jul2025 00:10:51.055] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0) successfully connected to voice chat
+[24Jul2025 00:10:51.126] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[24Jul2025 00:10:52.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[24Jul2025 00:10:52.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[24Jul2025 00:11:50.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique fell off a ladder
+[24Jul2025 00:11:51.722] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 00:11:51.722] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24Jul2025 00:11:53.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[24Jul2025 00:12:20.330] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[24Jul2025 00:12:43.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[24Jul2025 00:13:16.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 00:13:44.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[24Jul2025 00:14:08.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Jul2025 00:14:26.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2777ms or 55 ticks behind
+[24Jul2025 00:15:26.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique burned to death
+[24Jul2025 00:15:28.542] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 00:15:28.542] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty

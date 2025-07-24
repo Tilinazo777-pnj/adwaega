@@ -5207,6 +5207,12 @@
     },
     "done": true
   },
+  "mca:marriage": {
+    "criteria": {
+      "iron": "2025-07-24 00:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-07-23 23:54:00 +0000"

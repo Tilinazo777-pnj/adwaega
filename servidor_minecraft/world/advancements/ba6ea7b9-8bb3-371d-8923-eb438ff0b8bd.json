@@ -4489,6 +4489,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "sweet_berries": "2025-07-18 22:18:03 +0000",
+      "brown_mushroom": "2025-07-24 00:09:09 +0000",
       "red_mushroom": "2025-07-21 23:54:32 +0000",
       "wheat": "2025-07-18 23:27:33 +0000"
     },
