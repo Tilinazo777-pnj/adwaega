@@ -845,3 +845,91 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [24Jul2025 22:40:28.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
 [24Jul2025 22:40:28.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
 [24Jul2025 22:40:28.003] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[24Jul2025 22:44:11.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported Anzu_ara to -1061.460000, 115.000000, -732.880000]
+[24Jul2025 22:44:23.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Gamerule doImmediateRespawn is now set to: true]
+[24Jul2025 22:44:54.596] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 22:44:54.596] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jul2025 22:45:01.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> he
+[24Jul2025 22:45:08.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> a XD
+[24Jul2025 22:45:28.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> te mate 2 veces XD
+[24Jul2025 22:46:17.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> q paso?
+[24Jul2025 22:47:00.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> farmea mas pe
+[24Jul2025 22:47:03.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ok
+[24Jul2025 22:47:06.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by C0LIGAMES
+[24Jul2025 22:47:07.194] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 22:47:07.194] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24Jul2025 22:47:07.997] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bc44a6[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:51497) lost connection: Disconnected
+[24Jul2025 22:47:11.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by C0LIGAMES
+[24Jul2025 22:47:21.303] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 22:47:21.303] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[24Jul2025 22:47:37.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[24Jul2025 22:47:37.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[24Jul2025 22:47:37.893] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[24Jul2025 22:48:08.654] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:35095] logged in with entity id 8539 at (-1055.5, 115.0, -742.5)
+[24Jul2025 22:48:08.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[24Jul2025 22:48:08.736] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[24Jul2025 22:48:09.146] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[24Jul2025 22:48:09.147] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[24Jul2025 22:48:22.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[24Jul2025 22:48:23.613] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[24Jul2025 22:48:23.614] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[24Jul2025 22:49:01.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[24Jul2025 22:49:01.575] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 22:49:01.575] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jul2025 22:49:10.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
+[24Jul2025 22:49:23.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[24Jul2025 22:49:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[24Jul2025 22:49:23.846] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[24Jul2025 22:49:27.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[24Jul2025 22:49:50.052] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:50081] logged in with entity id 8780 at (-1055.5, 115.0, -742.5)
+[24Jul2025 22:49:50.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[24Jul2025 22:49:50.125] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[24Jul2025 22:49:50.422] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[24Jul2025 22:49:50.422] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[24Jul2025 22:50:05.441] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[24Jul2025 22:50:05.448] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 22:50:05.448] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[24Jul2025 22:50:06.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[24Jul2025 22:50:06.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[24Jul2025 22:50:30.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> me desconecta por inactividad xd
+[24Jul2025 22:51:39.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was shot by C0LIGAMES
+[24Jul2025 22:51:40.150] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[24Jul2025 22:51:40.150] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[24Jul2025 22:51:56.102] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a57a88c[id=<null>,name=joaocover,properties={},legacy=false] (/127.108.89.213:38689) lost connection: Disconnected
+[24Jul2025 22:52:35.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[24Jul2025 22:52:35.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[24Jul2025 22:52:35.391] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[24Jul2025 22:52:42.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:51427] logged in with entity id 9180 at (1200.5, 65.0, 2291.5)
+[24Jul2025 22:52:42.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[24Jul2025 22:52:42.289] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[24Jul2025 22:52:43.103] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[24Jul2025 22:52:43.104] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[24Jul2025 22:52:45.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[24Jul2025 22:52:46.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[24Jul2025 22:52:46.836] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[24Jul2025 22:53:06.903] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@266a3b80[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.132.15.99:43911) lost connection: Disconnected
+[24Jul2025 22:54:39.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:59363] logged in with entity id 9812 at (-1064.7637289659203, 115.0, -741.7588491886684)
+[24Jul2025 22:54:39.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[24Jul2025 22:54:39.600] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[24Jul2025 22:54:39.822] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[24Jul2025 22:54:39.822] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[24Jul2025 22:55:03.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[24Jul2025 22:55:03.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[24Jul2025 22:55:03.005] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[24Jul2025 22:55:09.599] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[24Jul2025 22:55:09.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[24Jul2025 22:55:09.600] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[24Jul2025 22:55:12.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:50553] logged in with entity id 9960 at (-1064.8975735063418, 115.0, -742.4840363082161)
+[24Jul2025 22:55:12.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[24Jul2025 22:55:12.810] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[24Jul2025 22:55:13.764] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[24Jul2025 22:55:13.764] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[24Jul2025 22:55:18.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[24Jul2025 22:55:19.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[24Jul2025 22:55:19.816] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[24Jul2025 22:55:35.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[24Jul2025 22:55:35.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[24Jul2025 22:55:35.502] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[24Jul2025 22:56:30.291] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@402d1a13[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.132.15.99:36863) lost connection: Disconnected
+[24Jul2025 22:57:23.792] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@504982d7[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.132.15.99:38713) lost connection: Disconnected
+[24Jul2025 22:58:03.444] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8dc4dd9[id=<null>,name=Anzu_ara,properties={},legacy=false] (/127.132.15.99:56937) lost connection: Disconnected
