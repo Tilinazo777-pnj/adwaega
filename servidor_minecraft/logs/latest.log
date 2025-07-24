@@ -1219,3 +1219,21 @@
 [24Jul2025 01:08:18.121] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
 [24Jul2025 01:17:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ZZZZZZZZZ
 [24Jul2025 01:19:30.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> gg
+[24Jul2025 01:28:03.156] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[24Jul2025 01:28:03.157] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[24Jul2025 01:34:40.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[24Jul2025 01:34:40.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[24Jul2025 01:34:40.771] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[24Jul2025 01:34:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[24Jul2025 01:34:51.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jul2025 01:34:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jul2025 01:34:51.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jul2025 01:34:51.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jul2025 01:34:51.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[24Jul2025 01:34:51.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jul2025 01:34:51.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jul2025 01:34:51.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jul2025 01:34:51.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[24Jul2025 01:34:51.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jul2025 01:34:51.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jul2025 01:34:51.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
