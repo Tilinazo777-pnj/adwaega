@@ -22,6 +22,7 @@
       "minecraft:taiga": "2025-07-16 23:55:20 +0000",
       "minecraft:sunflower_plains": "2025-07-23 01:11:08 +0000",
       "minecraft:birch_forest": "2025-07-23 01:43:29 +0000",
+      "minecraft:windswept_hills": "2025-07-24 00:14:36 +0000",
       "minecraft:beach": "2025-07-16 23:40:39 +0000",
       "minecraft:river": "2025-07-16 23:19:52 +0000",
       "minecraft:swamp": "2025-07-23 01:44:03 +0000",
@@ -769,6 +770,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-24 00:26:57 +0000",
       "minecraft:skeleton": "2025-07-17 00:23:48 +0000",
       "minecraft:spider": "2025-07-17 00:28:00 +0000",
       "minecraft:creeper": "2025-07-23 01:50:15 +0000",
@@ -2745,7 +2747,9 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_stables": "2025-07-23 01:31:56 +0000",
-      "entered_fishing_ship": "2025-07-23 01:23:19 +0000"
+      "entered_pillager_camp": "2025-07-24 00:29:53 +0000",
+      "entered_fishing_ship": "2025-07-23 01:23:19 +0000",
+      "entered_tall_witch_hut": "2025-07-24 00:17:57 +0000"
     },
     "done": false
   },
@@ -3424,6 +3428,48 @@
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-07-24 00:08:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-24 00:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-24 00:19:15 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/squid": {
+    "criteria": {
+      "has_ink_sac": "2025-07-24 00:19:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-07-24 00:29:49 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald": "2025-07-24 00:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-24 00:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-24 00:42:22 +0000"
     },
     "done": true
   },
