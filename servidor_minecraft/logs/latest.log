@@ -638,3 +638,143 @@
 [25Jul2025 01:45:01.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
 [25Jul2025 01:45:13.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
 [25Jul2025 01:45:30.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90589, l='ServerLevel[world]', x=965.25, y=230.00, z=1937.62] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:45:38.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90909, l='ServerLevel[world]', x=963.95, y=227.00, z=1933.41] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:45:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CHAT
+[25Jul2025 01:45:48.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89560, l='ServerLevel[world]', x=963.63, y=236.50, z=1937.55] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:45:53.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> q
+[25Jul2025 01:45:55.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by C0LIGAMES
+[25Jul2025 01:45:58.262] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:45:58.263] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 01:45:59.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jul2025 01:46:30.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo fell from a high place
+[25Jul2025 01:46:30.610] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:46:30.610] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 01:47:45.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
+[25Jul2025 01:47:45.903] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-01.47.45.dat
+[25Jul2025 01:47:46.063] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:47:46.063] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 01:48:03.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[25Jul2025 01:48:03.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[25Jul2025 01:48:03.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[25Jul2025 01:48:29.360] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@326676f9[id=<null>,name=joaocover,properties={},legacy=false] (/127.58.185.232:35589) lost connection: Disconnected
+[25Jul2025 01:48:31.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93267, l='ServerLevel[world]', x=960.61, y=241.00, z=1936.06] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:48:33.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:47103] logged in with entity id 93326 at (965.7213442446242, 235.5, 1937.699999988079)
+[25Jul2025 01:48:33.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[25Jul2025 01:48:34.057] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[25Jul2025 01:48:34.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93279, l='ServerLevel[world]', x=959.67, y=241.00, z=1934.11] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:48:34.770] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[25Jul2025 01:48:34.770] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[25Jul2025 01:48:50.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
+[25Jul2025 01:48:56.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME DA BAJONES
+[25Jul2025 01:49:00.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 01:49:01.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 01:49:01.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[25Jul2025 01:49:04.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[25Jul2025 01:49:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[25Jul2025 01:49:04.063] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[25Jul2025 01:49:04.205] [Server thread/INFO] [Scaling Health/]: Blight Gearling was killed by C0LIGAMES
+[25Jul2025 01:49:04.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93352, l='ServerLevel[world]', x=959.60, y=241.00, z=1934.18] died: Gearling was shot by C0LIGAMES
+[25Jul2025 01:49:07.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93480, l='ServerLevel[world]', x=958.15, y=241.00, z=1935.10] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:49:09.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:35415] logged in with entity id 93621 at (965.7213442446242, 235.5, 1937.699999988079)
+[25Jul2025 01:49:09.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[25Jul2025 01:49:09.988] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[25Jul2025 01:49:10.341] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[25Jul2025 01:49:10.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[25Jul2025 01:49:28.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO INVESTIGUES NADA MAS
+[25Jul2025 01:49:33.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 01:49:34.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 01:49:34.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[25Jul2025 01:49:40.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CULMINAREMOS DESPUES
+[25Jul2025 01:49:47.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93815, l='ServerLevel[world]', x=958.84, y=241.00, z=1934.00] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:49:47.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93821, l='ServerLevel[world]', x=958.91, y=241.00, z=1933.83] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:49:47.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93620, l='ServerLevel[world]', x=958.91, y=241.00, z=1934.80] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:49:47.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93545, l='ServerLevel[world]', x=959.77, y=241.00, z=1933.93] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:49:51.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93498, l='ServerLevel[world]', x=958.89, y=241.00, z=1934.82] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:50:00.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93870, l='ServerLevel[world]', x=958.94, y=241.00, z=1934.16] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:50:02.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
+[25Jul2025 01:50:02.667] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:50:02.667] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 01:50:06.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93924, l='ServerLevel[world]', x=958.97, y=241.00, z=1934.19] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:50:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
+[25Jul2025 01:50:17.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:50:17.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 01:50:29.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93996, l='ServerLevel[world]', x=959.00, y=241.00, z=1934.31] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:50:38.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94086, l='ServerLevel[world]', x=960.43, y=241.00, z=1935.44] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:50:42.064] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 01:50:42.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
+[25Jul2025 01:50:42.238] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 01:50:43.315] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:50:43.315] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 01:50:56.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94420, l='ServerLevel[world]', x=948.61, y=241.00, z=1934.37] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:50:56.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94334, l='ServerLevel[world]', x=948.24, y=241.00, z=1934.66] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:50:59.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94335, l='ServerLevel[world]', x=948.57, y=241.00, z=1934.89] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:05.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94522, l='ServerLevel[world]', x=949.13, y=241.00, z=1936.91] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:06.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94501, l='ServerLevel[world]', x=948.27, y=241.00, z=1936.44] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:12.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94298, l='ServerLevel[world]', x=957.05, y=241.00, z=1928.95] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:12.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94307, l='ServerLevel[world]', x=957.04, y=241.00, z=1927.96] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:22.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
+[25Jul2025 01:51:22.921] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:51:22.921] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 01:51:26.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94526, l='ServerLevel[world]', x=956.64, y=241.00, z=1928.28] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
+[25Jul2025 01:51:40.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[25Jul2025 01:51:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[25Jul2025 01:51:40.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[25Jul2025 01:51:41.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94643, l='ServerLevel[world]', x=956.94, y=241.00, z=1928.86] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:43.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94700, l='ServerLevel[world]', x=956.05, y=241.00, z=1928.16] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:43.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94711, l='ServerLevel[world]', x=957.04, y=241.00, z=1927.96] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:45.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94612, l='ServerLevel[world]', x=956.28, y=241.00, z=1927.94] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:45.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94695, l='ServerLevel[world]', x=956.97, y=241.00, z=1929.05] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:46.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94751, l='ServerLevel[world]', x=957.06, y=241.00, z=1928.75] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:51:46.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:40759] logged in with entity id 94811 at (962.6804890065899, 236.5, 1937.699999988079)
+[25Jul2025 01:51:46.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[25Jul2025 01:51:47.007] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[25Jul2025 01:51:47.415] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[25Jul2025 01:51:47.415] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[25Jul2025 01:51:49.462] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 01:51:56.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94613, l='ServerLevel[world]', x=957.16, y=241.00, z=1927.84] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:52:05.124] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:52:05.124] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 01:52:06.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 01:52:07.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 01:52:07.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[25Jul2025 01:52:34.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94036, l='ServerLevel[world]', x=949.06, y=257.08, z=1936.15] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:53:00.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94045, l='ServerLevel[world]', x=958.41, y=258.00, z=1928.54] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:53:05.517] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 01:53:16.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> causa para mañna
+[25Jul2025 01:53:21.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jul2025 01:53:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
+[25Jul2025 01:53:24.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:53:24.319] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 01:53:27.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO INVESTIGUES NADA
+[25Jul2025 01:53:28.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[25Jul2025 01:53:28.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[25Jul2025 01:53:28.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[25Jul2025 01:56:36.255] [Server thread/INFO] [Scaling Health/]: Blight Gearling has died
+[25Jul2025 01:56:36.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94717, l='ServerLevel[world]', x=975.48, y=221.00, z=1933.53] died: Gearling fell from a high place
+[25Jul2025 02:00:52.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Spider
+[25Jul2025 02:00:52.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 02:00:52.317] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 02:02:05.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was doomed to fall by Bok-Hee
+[25Jul2025 02:02:05.779] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 02:02:05.779] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 02:03:00.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> edys
+[25Jul2025 02:03:02.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> chast
+[25Jul2025 02:03:03.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> si?
+[25Jul2025 02:03:08.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> ya
+[25Jul2025 02:03:22.118] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
+[25Jul2025 02:04:43.573] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:04:43.767] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:04:43.967] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:06:14.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by Skeleton
+[25Jul2025 02:06:14.719] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 02:06:14.720] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 02:06:59.567] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:09:48.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
+[25Jul2025 02:09:49.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 02:09:49.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 02:10:49.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100140, l='ServerLevel[world]', x=1002.15, y=258.00, z=1936.54] died: Gearling was blown up by Creeper
+[25Jul2025 02:10:49.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100600, l='ServerLevel[world]', x=1000.48, y=259.30, z=1939.54] died: Gearling was blown up by Creeper
+[25Jul2025 02:10:49.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100172, l='ServerLevel[world]', x=1002.16, y=258.00, z=1938.17] died: Gearling was blown up by Creeper
+[25Jul2025 02:10:49.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100608, l='ServerLevel[world]', x=1002.28, y=258.00, z=1936.87] died: Gearling was blown up by Creeper
+[25Jul2025 02:15:47.116] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by C0LIGAMES

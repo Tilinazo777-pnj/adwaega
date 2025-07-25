@@ -7006,9 +7006,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-07-25 01:52:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-07-25 01:28:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-07-25 01:52:19 +0000"
     },
     "done": true
   },
@@ -7054,6 +7066,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_slab_from_waxed_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-07-25 01:52:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-07-25 01:58:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard_smithing": {
     "criteria": {
       "has_standard": "2025-07-25 00:59:45 +0000"
@@ -7081,6 +7105,12 @@
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_stairs": {
     "criteria": {
       "has_waxed_exposed_cut_copper": "2025-07-25 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_weathered_cut_copper_stairs_from_waxed_weathered_cut_copper_stonecutting": {
+    "criteria": {
+      "has_waxed_weathered_cut_copper": "2025-07-25 01:52:19 +0000"
     },
     "done": true
   },
