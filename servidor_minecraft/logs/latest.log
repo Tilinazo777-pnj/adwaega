@@ -94,3 +94,270 @@
 [25Jul2025 00:22:44.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
 [25Jul2025 00:23:01.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1079, y=65, z=-790} BlockPos{x=-1080, y=64, z=-791}
 [25Jul2025 00:23:01.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1079, y=65, z=-790} BlockPos{x=-1080, y=64, z=-791}
+[25Jul2025 00:24:13.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.228.234.214:40977] logged in with entity id 50285 at (847.130518754586, 48.0, 2496.5668649158783)
+[25Jul2025 00:24:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
+[25Jul2025 00:24:13.589] [Server thread/INFO] [Jade/]: Syncing config to asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0)
+[25Jul2025 00:24:14.756] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of asrielmanrique (18)
+[25Jul2025 00:24:14.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to asrielmanrique
+[25Jul2025 00:24:18.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique drowned
+[25Jul2025 00:24:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
+[25Jul2025 00:24:21.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 93160725-4002-3d1f-9267-650f17d3bbf0
+[25Jul2025 00:24:21.610] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:24:21.610] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 00:24:22.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 93160725-4002-3d1f-9267-650f17d3bbf0
+[25Jul2025 00:24:22.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0) successfully connected to voice chat
+[25Jul2025 00:24:29.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
+[25Jul2025 00:24:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
+[25Jul2025 00:25:01.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Jul2025 00:25:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jul2025 00:25:01.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[25Jul2025 00:25:12.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:60257] logged in with entity id 50970 at (720.5912041307713, 79.0, 2590.902383903851)
+[25Jul2025 00:25:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[25Jul2025 00:25:12.606] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[25Jul2025 00:25:12.916] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[25Jul2025 00:25:12.916] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[25Jul2025 00:25:16.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[25Jul2025 00:25:17.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[25Jul2025 00:25:17.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[25Jul2025 00:25:51.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
+[25Jul2025 00:25:51.294] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-00.25.51.dat
+[25Jul2025 00:26:39.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Jul2025 00:26:39.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jul2025 00:26:39.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[25Jul2025 00:26:46.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
+[25Jul2025 00:26:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
+[25Jul2025 00:26:46.561] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
+[25Jul2025 00:27:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Only players may be affected by this command, but the provided selector includes entities
+[25Jul2025 00:27:22.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: msg @e me crasheo XD<--[HERE]
+[25Jul2025 00:27:39.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: me crasheo XD
+[25Jul2025 00:27:39.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: me crasheo XD
+[25Jul2025 00:27:47.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
+[25Jul2025 00:28:23.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: y gustambo?
+[25Jul2025 00:28:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: y gustambo?
+[25Jul2025 00:28:32.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:36373] logged in with entity id 51914 at (785.365355426156, 68.0, 2504.6987642392032)
+[25Jul2025 00:28:32.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[25Jul2025 00:28:32.497] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[25Jul2025 00:28:33.952] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[25Jul2025 00:28:33.953] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[25Jul2025 00:28:40.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[25Jul2025 00:28:41.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[25Jul2025 00:28:41.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[25Jul2025 00:28:48.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 timed out
+[25Jul2025 00:28:48.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Anzu_ara
+[25Jul2025 00:28:48.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[25Jul2025 00:29:01.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
+[25Jul2025 00:29:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[25Jul2025 00:29:01.460] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[25Jul2025 00:29:01.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
+[25Jul2025 00:29:01.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
+[25Jul2025 00:29:01.501] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
+[25Jul2025 00:29:48.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.228.234.214:52581] logged in with entity id 52332 at (851.8505927997635, 62.16131642191004, 2492.0127934301677)
+[25Jul2025 00:29:48.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
+[25Jul2025 00:29:48.505] [Server thread/INFO] [Jade/]: Syncing config to asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0)
+[25Jul2025 00:29:49.642] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of asrielmanrique (18)
+[25Jul2025 00:29:49.643] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to asrielmanrique
+[25Jul2025 00:29:55.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 93160725-4002-3d1f-9267-650f17d3bbf0
+[25Jul2025 00:29:56.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 93160725-4002-3d1f-9267-650f17d3bbf0
+[25Jul2025 00:29:56.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0) successfully connected to voice chat
+[25Jul2025 00:30:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> porqye tan lleno bro?
+[25Jul2025 00:30:55.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:36405] logged in with entity id 52665 at (800.4777605649717, 72.0, 2457.2845368063054)
+[25Jul2025 00:30:55.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[25Jul2025 00:30:55.788] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[25Jul2025 00:30:56.572] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[25Jul2025 00:30:56.573] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[25Jul2025 00:31:02.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 00:31:02.790] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:31:02.791] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 00:31:03.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 00:31:03.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[25Jul2025 00:31:27.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> agregame
+[25Jul2025 00:31:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was burnt to a crisp whilst fighting C0LIGAMES
+[25Jul2025 00:31:32.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:31:32.556] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jul2025 00:34:19.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8023709326537061
+[25Jul2025 00:34:20.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8172448720331171
+[25Jul2025 00:34:20.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6504313724244387
+[25Jul2025 00:34:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Best Friends Forever]
+[25Jul2025 00:34:25.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Free Willy]
+[25Jul2025 00:34:37.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5236422230905243
+[25Jul2025 00:34:38.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5041753938788542
+[25Jul2025 00:34:38.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6330227212164926
+[25Jul2025 00:34:41.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5314614024491675
+[25Jul2025 00:34:41.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.2296320274995196
+[25Jul2025 00:34:41.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.9432482203606014
+[25Jul2025 00:34:41.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5780747157996302
+[25Jul2025 00:34:41.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5900767212465325
+[25Jul2025 00:34:41.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.600756470008946
+[25Jul2025 00:34:41.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6102486794757169
+[25Jul2025 00:34:41.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6186254637054844
+[25Jul2025 00:34:41.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6260137873964595
+[25Jul2025 00:34:41.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6232110950941205
+[25Jul2025 00:34:41.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6207391204829946
+[25Jul2025 00:34:41.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6185588388761971
+[25Jul2025 00:34:41.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6259550242971272
+[25Jul2025 00:34:41.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6324784598382394
+[25Jul2025 00:34:41.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6382321299856812
+[25Jul2025 00:34:41.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6433068670553439
+[25Jul2025 00:34:41.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6477827851508664
+[25Jul2025 00:34:42.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5537448117306667
+[25Jul2025 00:34:42.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4708033191736831
+[25Jul2025 00:34:42.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.39848509342800753
+[25Jul2025 00:34:42.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.33470041831969866
+[25Jul2025 00:34:42.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.27844233487485326
+[25Jul2025 00:35:10.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5349140468738369
+[25Jul2025 00:35:10.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.3396359036023568
+[25Jul2025 00:35:10.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 2.1370082611110774
+[25Jul2025 00:35:10.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 2.9274648875610834
+[25Jul2025 00:35:10.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5077252482742551
+[25Jul2025 00:35:10.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5016204227572416
+[25Jul2025 00:35:10.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4953668929920241
+[25Jul2025 00:35:10.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4808125153090259
+[25Jul2025 00:35:10.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4527451641938569
+[25Jul2025 00:35:10.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.157303787761985
+[25Jul2025 00:35:10.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.38790405341433143
+[25Jul2025 00:35:10.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3598424475326283
+[25Jul2025 00:35:10.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.0407607765448201
+[25Jul2025 00:35:10.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3132623144510944
+[25Jul2025 00:35:10.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2940084337674307
+[25Jul2025 00:35:10.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.9998904980719971
+[25Jul2025 00:35:10.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.7706625067606614
+[25Jul2025 00:35:11.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 2.5512599472844055
+[25Jul2025 00:35:19.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8287517227710687
+[25Jul2025 00:35:19.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8287517227710687
+[25Jul2025 00:36:10.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.7951332710193921
+[25Jul2025 00:36:10.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.7951332710193921
+[25Jul2025 00:36:23.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4169283348997433
+[25Jul2025 00:36:25.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4394001790593876
+[25Jul2025 00:36:35.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.518601248178637
+[25Jul2025 00:36:37.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5695775180048486
+[25Jul2025 00:36:37.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.3478778863508296
+[25Jul2025 00:36:37.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 2.1260796407528915
+[25Jul2025 00:36:37.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 2.904194417656413
+[25Jul2025 00:36:37.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 3.682232480406242
+[25Jul2025 00:36:37.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.554946744026438
+[25Jul2025 00:36:37.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.3061537704174953
+[25Jul2025 00:36:37.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4610985505273675
+[25Jul2025 00:36:37.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.38659228639539833
+[25Jul2025 00:36:37.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.32803934396240453
+[25Jul2025 00:36:37.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.926858743887449
+[25Jul2025 00:36:37.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.28957276379108565
+[25Jul2025 00:36:37.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3093151762356183
+[25Jul2025 00:36:37.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.9959070838830122
+[25Jul2025 00:36:37.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3468588209158497
+[25Jul2025 00:36:37.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.0567925503196003
+[25Jul2025 00:36:38.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3827186289763821
+[25Jul2025 00:36:38.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.1076240905830734
+[25Jul2025 00:36:38.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4246451531424782
+[25Jul2025 00:36:38.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4498734868587917
+[25Jul2025 00:36:38.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.47212487719650653
+[25Jul2025 00:36:38.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4917506034744292
+[25Jul2025 00:36:38.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.2138874361842829
+[25Jul2025 00:36:38.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5243278175405521
+[25Jul2025 00:36:38.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5377935968579095
+[25Jul2025 00:36:38.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5496704142158251
+[25Jul2025 00:36:38.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5601457671255048
+[25Jul2025 00:36:38.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5693850283918209
+[25Jul2025 00:36:38.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5775340568286538
+[25Jul2025 00:36:38.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5847214999099606
+[25Jul2025 00:36:38.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5910608247077107
+[25Jul2025 00:36:38.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5966521091793311
+[25Jul2025 00:36:38.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.6015836220832398
+[25Jul2025 00:36:38.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.6056285969375494
+[25Jul2025 00:36:38.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5936980379378838
+[25Jul2025 00:36:38.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5532821487480533
+[25Jul2025 00:36:39.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5122578154241637
+[25Jul2025 00:36:39.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.1971668263904576
+[25Jul2025 00:36:39.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4441605399558739
+[25Jul2025 00:36:39.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.0717178542881811
+[25Jul2025 00:36:39.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4002676105963019
+[25Jul2025 00:36:39.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.41527380545630876
+[25Jul2025 00:36:39.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4342002817817274
+[25Jul2025 00:36:39.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.45473963187657773
+[25Jul2025 00:36:39.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4744343000867275
+[25Jul2025 00:36:39.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.49143746565903257
+[25Jul2025 00:36:39.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.2067063808866578
+[25Jul2025 00:36:39.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5196614282685914
+[25Jul2025 00:36:39.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5313277927155013
+[25Jul2025 00:36:39.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.2817799764069377
+[25Jul2025 00:36:39.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5500964744344401
+[25Jul2025 00:36:39.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4605426008622544
+[25Jul2025 00:36:39.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.38155608437148203
+[25Jul2025 00:36:39.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3118899768267056
+[25Jul2025 00:36:39.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.2504444699720807
+[25Jul2025 00:36:41.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.6735017669507511
+[25Jul2025 00:36:41.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.6105624701345898
+[25Jul2025 00:36:42.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.7343334083909773
+[25Jul2025 00:36:46.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.49243524640518804
+[25Jul2025 00:36:47.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.40384948128780707
+[25Jul2025 00:36:49.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3441960780376754
+[25Jul2025 00:36:51.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4077138478311902
+[25Jul2025 00:36:58.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3698856549602957
+[25Jul2025 00:37:00.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.695678765635033
+[25Jul2025 00:37:00.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.695678765635033
+[25Jul2025 00:37:00.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4311786062674475
+[25Jul2025 00:38:00.138] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[25Jul2025 00:38:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Who You Gonna Call?]
+[25Jul2025 00:38:43.904] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[25Jul2025 00:39:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Sea Serpent
+[25Jul2025 00:39:06.110] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:39:06.111] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jul2025 00:39:18.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Sea? Not a Problem]
+[25Jul2025 00:40:39.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
+[25Jul2025 00:40:39.665] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:40:39.665] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jul2025 00:40:42.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
+[25Jul2025 00:40:42.866] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-00.40.42.dat
+[25Jul2025 00:40:43.023] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:40:43.023] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 00:41:03.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Ghost
+[25Jul2025 00:41:03.225] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:41:03.225] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
+[25Jul2025 00:41:28.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique drowned
+[25Jul2025 00:41:28.906] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:41:28.906] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 00:44:12.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
+[25Jul2025 00:44:16.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Jul2025 00:44:16.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jul2025 00:44:16.538] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[25Jul2025 00:44:22.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:53549] logged in with entity id 60333 at (613.2224592060005, 85.0, 2887.105004464425)
+[25Jul2025 00:44:22.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
+[25Jul2025 00:44:22.930] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
+[25Jul2025 00:44:23.318] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
+[25Jul2025 00:44:23.319] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
+[25Jul2025 00:44:26.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[25Jul2025 00:44:27.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
+[25Jul2025 00:44:27.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
+[25Jul2025 00:44:28.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jul2025 00:44:30.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> holas
+[25Jul2025 00:45:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jul2025 00:46:05.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd timed out
+[25Jul2025 00:46:05.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player joaocover
+[25Jul2025 00:46:05.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[25Jul2025 00:46:12.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
+[25Jul2025 00:46:12.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
+[25Jul2025 00:46:12.137] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
+[25Jul2025 00:46:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jul2025 00:47:41.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
+[25Jul2025 00:47:41.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
+[25Jul2025 00:47:41.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
+[25Jul2025 00:50:07.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.45.164.17:56213] logged in with entity id 61544 at (-1326.5984153235547, 79.5625, -115.53742535357615)
+[25Jul2025 00:50:07.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
+[25Jul2025 00:50:07.633] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
+[25Jul2025 00:50:09.478] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
+[25Jul2025 00:50:09.478] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
+[25Jul2025 00:50:14.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[25Jul2025 00:50:15.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
+[25Jul2025 00:50:15.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
+[25Jul2025 00:51:51.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> edys chat de vo<?
+[25Jul2025 00:52:12.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> prefiero estar de chil escuchando musica
+[25Jul2025 00:52:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo fell from a high place
+[25Jul2025 00:52:23.011] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:52:23.011] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 00:53:06.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:43595] logged in with entity id 63350 at (614.8679184178812, 97.0, 2883.5094761812975)
+[25Jul2025 00:53:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
+[25Jul2025 00:53:06.464] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
+[25Jul2025 00:53:07.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
+[25Jul2025 00:53:07.408] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
+[25Jul2025 00:53:11.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 00:53:12.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
+[25Jul2025 00:53:12.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
