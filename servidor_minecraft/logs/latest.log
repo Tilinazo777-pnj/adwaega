@@ -787,3 +787,30 @@
 [25Jul2025 02:24:12.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Spider
 [25Jul2025 02:24:12.615] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
 [25Jul2025 02:24:12.615] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jul2025 02:29:45.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106110, l='ServerLevel[world]', x=1014.55, y=212.64, z=1943.89] died: Gearling was slain by C0LIGAMES
+[25Jul2025 02:29:50.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106108, l='ServerLevel[world]', x=1017.33, y=212.36, z=1942.19] died: Gearling was slain by C0LIGAMES
+[25Jul2025 02:29:51.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106097, l='ServerLevel[world]', x=1017.62, y=212.85, z=1942.20] died: Gearling was slain by C0LIGAMES
+[25Jul2025 02:30:02.815] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:30:03.014] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:30:03.362] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:30:03.619] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:30:03.813] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 02:30:07.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
+[25Jul2025 02:30:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
+[25Jul2025 02:30:07.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
+[25Jul2025 02:30:09.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
+[25Jul2025 02:30:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
+[25Jul2025 02:30:09.788] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
+[25Jul2025 02:30:13.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Jul2025 02:30:13.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Jul2025 02:30:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Jul2025 02:30:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Jul2025 02:30:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Jul2025 02:30:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
+[25Jul2025 02:30:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Jul2025 02:30:13.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
+[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
