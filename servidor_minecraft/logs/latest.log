@@ -361,3 +361,101 @@
 [25Jul2025 00:53:11.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
 [25Jul2025 00:53:12.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
 [25Jul2025 00:53:12.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
+[25Jul2025 00:56:21.081] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[25Jul2025 00:56:21.082] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
+[25Jul2025 00:56:21.082] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
+[25Jul2025 00:58:11.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Drowned
+[25Jul2025 00:58:11.466] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 00:58:11.467] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jul2025 00:58:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
+[25Jul2025 00:58:39.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=80, z=-120} BlockPos{x=-1340, y=80, z=-121}
+[25Jul2025 00:58:40.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1343, y=81, z=-121} BlockPos{x=-1342, y=80, z=-122}
+[25Jul2025 00:59:27.950] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[25Jul2025 01:00:17.557] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 01:00:48.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:34495] logged in with entity id 68072 at (-1060.049369210299, 121.0, -706.2286006616124)
+[25Jul2025 01:00:48.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
+[25Jul2025 01:00:48.793] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
+[25Jul2025 01:00:50.443] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
+[25Jul2025 01:00:50.444] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
+[25Jul2025 01:01:07.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[25Jul2025 01:01:08.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
+[25Jul2025 01:01:08.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
+[25Jul2025 01:01:54.927] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[25Jul2025 01:01:54.928] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[25Jul2025 01:01:55.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Drowned
+[25Jul2025 01:01:55.402] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:01:55.403] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jul2025 01:02:02.365] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[25Jul2025 01:02:02.365] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[25Jul2025 01:02:02.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Settling In]
+[25Jul2025 01:02:29.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> zuemy???
+[25Jul2025 01:02:33.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [My Name is Nobody]
+[25Jul2025 01:02:39.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si
+[25Jul2025 01:02:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO
+[25Jul2025 01:02:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TE SACO
+[25Jul2025 01:02:54.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO MATES A NINGUNA ALDEANA
+[25Jul2025 01:02:55.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3919470092540678
+[25Jul2025 01:02:55.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.9315033411377271
+[25Jul2025 01:02:56.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.4818250988381578
+[25Jul2025 01:02:56.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.0416419621089972
+[25Jul2025 01:02:56.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.43278792195917504
+[25Jul2025 01:02:56.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.44017439246488266
+[25Jul2025 01:02:56.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.44668925945097726
+[25Jul2025 01:02:56.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4524353721326406
+[25Jul2025 01:02:56.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4575034435179077
+[25Jul2025 01:02:56.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4619734824797206
+[25Jul2025 01:02:56.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4659160568439802
+[25Jul2025 01:02:56.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.070713088702064
+[25Jul2025 01:02:56.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4724604306530864
+[25Jul2025 01:02:56.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.47516554513299525
+[25Jul2025 01:02:56.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.47755145610415184
+[25Jul2025 01:02:56.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.47965582958079267
+[25Jul2025 01:02:56.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8273564887895083
+[25Jul2025 01:02:57.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.828978779852499
+[25Jul2025 01:02:58.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.756759262582105
+[25Jul2025 01:02:58.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7799069717437906
+[25Jul2025 01:02:58.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.78587794397617
+[25Jul2025 01:03:06.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> pero son mios xd
+[25Jul2025 01:03:30.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.32236710227591014
+[25Jul2025 01:03:31.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5100501460390087
+[25Jul2025 01:03:32.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4251327671946575
+[25Jul2025 01:03:32.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4251327671946575
+[25Jul2025 01:03:38.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.32738933811630194
+[25Jul2025 01:03:38.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.31759454817172755
+[25Jul2025 01:03:51.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2766964933048257
+[25Jul2025 01:03:51.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.0817615384657984
+[25Jul2025 01:03:51.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.8892234830682355
+[25Jul2025 01:03:51.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.28392503111626866
+[25Jul2025 01:03:51.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2857011183332361
+[25Jul2025 01:03:51.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2874386416924608
+[25Jul2025 01:03:51.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.288971137295448
+[25Jul2025 01:03:51.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.0074678436858449
+[25Jul2025 01:03:52.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2977159199617745
+[25Jul2025 01:03:52.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6454786944514126
+[25Jul2025 01:03:52.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.957260696805406
+[25Jul2025 01:03:56.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3181269019097499
+[25Jul2025 01:03:56.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7090782538748499
+[25Jul2025 01:03:56.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.152532143971687
+[25Jul2025 01:03:56.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.323459256798742
+[25Jul2025 01:03:56.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7165861281488333
+[25Jul2025 01:03:56.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3230793295716694
+[25Jul2025 01:03:56.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3229222867937551
+[25Jul2025 01:03:56.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.32278377506361267
+[25Jul2025 01:03:56.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.27392307230741153
+[25Jul2025 01:03:56.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5771481111531784
+[25Jul2025 01:04:02.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8244089303215516
+[25Jul2025 01:04:02.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8019955600198427
+[25Jul2025 01:04:04.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.425592389884514
+[25Jul2025 01:04:04.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5601542733005545
+[25Jul2025 01:04:07.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6949069519508748
+[25Jul2025 01:04:08.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7581293379998908
+[25Jul2025 01:04:11.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6097028876894368
+[25Jul2025 01:04:11.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6097028876894368
+[25Jul2025 01:04:11.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.215214804311965
+[25Jul2025 01:04:11.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6202384975801801
+[25Jul2025 01:04:11.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6491917259303155
+[25Jul2025 01:04:11.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6659241059830602
+[25Jul2025 01:04:17.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[25Jul2025 01:04:19.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.817417213122855
+[25Jul2025 01:04:20.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8312368771584682
+[25Jul2025 01:04:20.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7553838817661346

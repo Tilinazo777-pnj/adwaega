@@ -7000,5 +7000,17 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-07-25 00:59:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-25 01:02:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

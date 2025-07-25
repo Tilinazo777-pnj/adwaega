@@ -19,6 +19,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-07-25 00:55:39 +0000",
       "minecraft:old_growth_pine_taiga": "2025-07-23 00:51:58 +0000",
       "minecraft:taiga": "2025-07-23 00:44:12 +0000",
       "minecraft:birch_forest": "2025-07-22 00:04:35 +0000",
@@ -3060,6 +3061,18 @@
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-23 01:50:10 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2025-07-25 01:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-25 01:01:03 +0000"
     },
     "done": true
   },
