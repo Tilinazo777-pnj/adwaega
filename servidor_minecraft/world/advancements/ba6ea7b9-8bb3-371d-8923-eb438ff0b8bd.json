@@ -888,6 +888,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-25 01:06:39 +0000",
       "cooked_mutton": "2025-07-12 21:15:23 +0000",
       "sweet_berries": "2025-07-18 22:18:05 +0000",
       "cooked_beef": "2025-07-21 01:14:11 +0000",
@@ -5985,6 +5986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-07-25 01:13:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-07-25 00:58:35 +0000"
@@ -5997,9 +6004,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-07-25 01:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-25 00:58:35 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-07-25 01:09:03 +0000"
     },
     "done": true
   },
