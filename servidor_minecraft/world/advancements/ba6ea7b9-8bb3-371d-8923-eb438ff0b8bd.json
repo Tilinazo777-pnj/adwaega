@@ -5840,5 +5840,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-24 23:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-24 23:58:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-24 23:57:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-24 23:57:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-07-24 23:58:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

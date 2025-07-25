@@ -30,6 +30,7 @@
       "minecraft:forest": "2025-07-16 23:17:44 +0000",
       "minecraft:windswept_forest": "2025-07-23 01:58:34 +0000",
       "minecraft:ocean": "2025-07-23 01:14:23 +0000",
+      "minecraft:windswept_savanna": "2025-07-24 23:48:52 +0000",
       "minecraft:flower_forest": "2025-07-23 01:12:43 +0000",
       "minecraft:meadow": "2025-07-23 01:10:04 +0000",
       "minecraft:plains": "2025-07-16 23:08:45 +0000"
@@ -775,7 +776,8 @@
       "minecraft:spider": "2025-07-17 00:28:00 +0000",
       "minecraft:creeper": "2025-07-23 01:50:15 +0000",
       "minecraft:witch": "2025-07-17 00:24:47 +0000",
-      "minecraft:zombie": "2025-07-16 23:32:10 +0000"
+      "minecraft:zombie": "2025-07-16 23:32:10 +0000",
+      "minecraft:drowned": "2025-07-24 23:59:40 +0000"
     },
     "done": false
   },
@@ -2749,7 +2751,8 @@
       "entered_stables": "2025-07-23 01:31:56 +0000",
       "entered_pillager_camp": "2025-07-24 00:29:53 +0000",
       "entered_fishing_ship": "2025-07-23 01:23:19 +0000",
-      "entered_tall_witch_hut": "2025-07-24 00:17:57 +0000"
+      "entered_tall_witch_hut": "2025-07-24 00:17:57 +0000",
+      "entered_ruined_building": "2025-07-25 00:02:45 +0000"
     },
     "done": false
   },
@@ -3470,6 +3473,18 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-07-24 00:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-07-24 23:54:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-24 23:57:01 +0000"
     },
     "done": true
   },
