@@ -3482,9 +3482,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-07-25 00:10:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-25 00:10:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-07-25 00:10:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-07-25 00:10:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-07-24 23:57:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-07-25 00:10:03 +0000"
     },
     "done": true
   },

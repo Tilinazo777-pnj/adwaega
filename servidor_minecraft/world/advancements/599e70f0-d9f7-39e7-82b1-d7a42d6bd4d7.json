@@ -6975,6 +6975,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/use_tide_trident": {
+    "criteria": {
+      "shot_arrow": "2025-07-25 00:08:46 +0000"
+    },
+    "done": true
+  },
   "mca:twins": {
     "criteria": {
       "baby": "2025-07-24 23:59:55 +0000"
