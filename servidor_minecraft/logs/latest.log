@@ -531,3 +531,29 @@
 [25Jul2025 01:13:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Welcome To The Machine]
 [25Jul2025 01:14:02.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/79531, l='ServerLevel[world]', x=991.66, y=128.17, z=1950.46] died: Gearling was slain by joaocover
 [25Jul2025 01:14:40.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/79491, l='ServerLevel[world]', x=992.19, y=129.00, z=1950.35] died: Gearling was slain by joaocover
+[25Jul2025 01:15:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to 954.830000, 156.000000, 1934.690000]
+[25Jul2025 01:16:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was blown up by Creeper
+[25Jul2025 01:16:53.571] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:16:53.571] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 01:17:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to 958.310000, 165.060000, 1934.630000]
+[25Jul2025 01:21:37.760] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by C0LIGAMES
+[25Jul2025 01:21:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Cover Me with Diamonds]
+[25Jul2025 01:21:55.266] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 01:21:55.465] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
+[25Jul2025 01:23:52.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was crushed by a falling tree
+[25Jul2025 01:23:52.468] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:23:52.468] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
+[25Jul2025 01:24:01.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83422, l='ServerLevel[world]', x=952.05, y=186.00, z=1933.88] died: Gearling was slain by joaocover
+[25Jul2025 01:24:25.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Gearling
+[25Jul2025 01:24:25.762] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-01.24.25.dat
+[25Jul2025 01:24:25.915] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 01:24:25.916] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 01:24:26.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83190, l='ServerLevel[world]', x=953.35, y=190.42, z=1944.85] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:24:27.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83505, l='ServerLevel[world]', x=953.41, y=191.00, z=1945.17] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:24:27.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83661, l='ServerLevel[world]', x=953.75, y=190.80, z=1944.68] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:24:35.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83678, l='ServerLevel[world]', x=960.35, y=190.00, z=1941.24] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:24:41.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83412, l='ServerLevel[world]', x=955.50, y=190.00, z=1937.48] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:24:42.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83379, l='ServerLevel[world]', x=956.47, y=190.00, z=1937.51] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:24:50.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83267, l='ServerLevel[world]', x=954.66, y=190.00, z=1934.60] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:24:53.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83878, l='ServerLevel[world]', x=956.26, y=190.00, z=1935.47] died: Gearling was slain by C0LIGAMES
+[25Jul2025 01:24:56.863] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
