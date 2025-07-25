@@ -778,3 +778,12 @@
 [25Jul2025 02:10:49.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100172, l='ServerLevel[world]', x=1002.16, y=258.00, z=1938.17] died: Gearling was blown up by Creeper
 [25Jul2025 02:10:49.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100608, l='ServerLevel[world]', x=1002.28, y=258.00, z=1936.87] died: Gearling was blown up by Creeper
 [25Jul2025 02:15:47.116] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by C0LIGAMES
+[25Jul2025 02:19:17.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
+[25Jul2025 02:19:17.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 02:19:17.316] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 02:20:30.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
+[25Jul2025 02:20:30.671] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 02:20:30.671] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
+[25Jul2025 02:24:12.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Spider
+[25Jul2025 02:24:12.615] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
+[25Jul2025 02:24:12.615] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
