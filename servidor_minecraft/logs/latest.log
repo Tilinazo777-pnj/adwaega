@@ -1,816 +1,114 @@
-[25Jul2025 00:00:15.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7250608867231764
-[25Jul2025 00:00:15.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7250608867231764
-[25Jul2025 00:00:15.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.9292179256176496
-[25Jul2025 00:00:15.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.9292179256176496
-[25Jul2025 00:00:15.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.9915941235923793
-[25Jul2025 00:00:15.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 2.236504143491326
-[25Jul2025 00:00:17.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8184549928229793
-[25Jul2025 00:00:18.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.822237330273845
-[25Jul2025 00:00:18.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.822237330273845
-[25Jul2025 00:02:08.676] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[25Jul2025 00:02:08.677] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
-[25Jul2025 00:02:08.678] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
-[25Jul2025 00:02:27.128] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-4, y=59, z=8}
-[25Jul2025 00:02:36.968] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Alena'/36361, l='ServerLevel[world]', x=601.88, y=75.20, z=2458.19] died, message: 'Alena was slain by Cyclops'
-[25Jul2025 00:02:56.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! 8.677146219220106,-2.689534684434676,4.6962316941574045
-[25Jul2025 00:02:57.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
-[25Jul2025 00:02:58.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marian'/36259, l='ServerLevel[world]', x=606.55, y=76.20, z=2456.40] died, message: 'Marian was slain by Cyclops'
-[25Jul2025 00:03:49.344] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Geta'/36182, l='ServerLevel[world]', x=633.21, y=89.00, z=2493.84] died, message: 'Geta hit the ground too hard whilst trying to escape Cyclops'
-[25Jul2025 00:04:41.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Fire Dragon
-[25Jul2025 00:04:41.360] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-00.04.41.dat
-[25Jul2025 00:04:41.942] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:04:41.942] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 00:05:58.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Hot Stuff]
-[25Jul2025 00:06:20.948] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Marcela'/36185, l='ServerLevel[world]', x=626.36, y=79.00, z=2465.29] died, message: 'Marcela was slain by Zombie'
-[25Jul2025 00:06:56.293] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=371, y=27, z=2495} but found not block entity block Block{minecraft:water}[level=0] at location
-[25Jul2025 00:06:56.293] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=371, y=27, z=2495}
-[25Jul2025 00:07:01.109] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[25Jul2025 00:07:01.109] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
-[25Jul2025 00:07:01.110] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
-[25Jul2025 00:07:02.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
-[25Jul2025 00:07:03.027] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:07:03.028] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 00:07:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 00:07:29.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
-[25Jul2025 00:07:29.424] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:07:29.424] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 00:07:34.816] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 00:08:46.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Poseidon, God of the Seas]
-[25Jul2025 00:09:41.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES moved too quickly! -8.598993924819865,-3.126735778005525,-4.8125844732301175
-[25Jul2025 00:10:06.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has completed the challenge [Best Friends]
-[25Jul2025 00:10:24.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has completed the challenge [A Loving Parent (For Two!)]
-[25Jul2025 00:13:06.035] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-07-25 at /workspaces/pepe/servidor_minecraft/easy_npc/backup ...
-[25Jul2025 00:13:20.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 00:13:22.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> dejamatarte
-[25Jul2025 00:13:40.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> prestame uno pis
-[25Jul2025 00:13:46.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> QUE COSA?
-[25Jul2025 00:13:48.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> de las cunas XD
-[25Jul2025 00:13:59.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> WE TWNGO DOS NO JODA
-[25Jul2025 00:14:55.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique drowned
-[25Jul2025 00:14:55.279] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:14:55.280] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 00:16:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> va
-[25Jul2025 00:17:01.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
-[25Jul2025 00:17:01.969] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:17:01.969] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 00:18:36.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7406939584010237
-[25Jul2025 00:18:36.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7740447211183397
-[25Jul2025 00:18:38.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6976119860894734
-[25Jul2025 00:18:38.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7759546461988446
-[25Jul2025 00:18:40.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7083140989003739
-[25Jul2025 00:18:41.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.766909806697351
-[25Jul2025 00:18:41.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 00:18:41.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7779910431461101
-[25Jul2025 00:18:41.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7799322533881999
-[25Jul2025 00:18:42.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5102755962627441
-[25Jul2025 00:19:06.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
-[25Jul2025 00:19:06.863] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:19:06.863] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 00:19:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara was slain by C0LIGAMES
-[25Jul2025 00:19:12.110] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:19:12.111] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 00:19:16.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> A XD
-[25Jul2025 00:19:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> we ahora no xd
-[25Jul2025 00:19:22.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> habla pis
-[25Jul2025 00:19:47.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ya?
-[25Jul2025 00:20:46.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique moved too quickly! -0.953791623664074,-12.367908309872554,15.91218791862002
-[25Jul2025 00:20:56.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> ´pasame tu pechera
-[25Jul2025 00:20:57.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 45.64790184703247,-16.79081987702932,17.737074602105167
-[25Jul2025 00:20:58.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 3.1008442280739246,-8.023463567592977,-9.990325994435352
-[25Jul2025 00:21:01.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> o toma
-[25Jul2025 00:21:01.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 103.94275432848747,-73.56640904339429,-87.77565648428708
-[25Jul2025 00:21:03.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -2.0681954092875685,12.081047144833917,8.6989020253518
-[25Jul2025 00:21:08.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover died from hugs while running away Grotesque steve
-[25Jul2025 00:21:08.722] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-00.21.08.dat
-[25Jul2025 00:21:08.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! -21.577035548874278,15.884779036819666,4.342456868535919
-[25Jul2025 00:21:08.863] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:21:08.863] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 00:21:45.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 128.6092705920471,-52.0,44.08225555616855
-[25Jul2025 00:21:46.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover moved too quickly! 5.742733831475107,-1.5453162573074692,-8.987357669387166
-[25Jul2025 00:22:11.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique moved too quickly! 118.39762617062217,-2.4432974329424084,20.547540779533392
-[25Jul2025 00:22:40.322] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
-[25Jul2025 00:22:40.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
-[25Jul2025 00:22:40.323] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
-[25Jul2025 00:22:44.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2111ms or 42 ticks behind
-[25Jul2025 00:23:01.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1079, y=65, z=-790} BlockPos{x=-1080, y=64, z=-791}
-[25Jul2025 00:23:01.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1079, y=65, z=-790} BlockPos{x=-1080, y=64, z=-791}
-[25Jul2025 00:24:13.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.228.234.214:40977] logged in with entity id 50285 at (847.130518754586, 48.0, 2496.5668649158783)
-[25Jul2025 00:24:13.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
-[25Jul2025 00:24:13.589] [Server thread/INFO] [Jade/]: Syncing config to asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0)
-[25Jul2025 00:24:14.756] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of asrielmanrique (18)
-[25Jul2025 00:24:14.757] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to asrielmanrique
-[25Jul2025 00:24:18.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique drowned
-[25Jul2025 00:24:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Spectator Mode]
-[25Jul2025 00:24:21.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 93160725-4002-3d1f-9267-650f17d3bbf0
-[25Jul2025 00:24:21.610] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:24:21.610] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 00:24:22.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 93160725-4002-3d1f-9267-650f17d3bbf0
-[25Jul2025 00:24:22.435] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0) successfully connected to voice chat
-[25Jul2025 00:24:29.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
-[25Jul2025 00:24:58.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Set own game mode to Survival Mode]
-[25Jul2025 00:25:01.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jul2025 00:25:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jul2025 00:25:01.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
-[25Jul2025 00:25:12.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:60257] logged in with entity id 50970 at (720.5912041307713, 79.0, 2590.902383903851)
-[25Jul2025 00:25:12.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jul2025 00:25:12.606] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
-[25Jul2025 00:25:12.916] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
-[25Jul2025 00:25:12.916] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
-[25Jul2025 00:25:16.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[25Jul2025 00:25:17.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[25Jul2025 00:25:17.558] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
-[25Jul2025 00:25:51.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Zombie
-[25Jul2025 00:25:51.294] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-00.25.51.dat
-[25Jul2025 00:26:39.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jul2025 00:26:39.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jul2025 00:26:39.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
-[25Jul2025 00:26:46.560] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
-[25Jul2025 00:26:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
-[25Jul2025 00:26:46.561] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
-[25Jul2025 00:27:22.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Only players may be affected by this command, but the provided selector includes entities
-[25Jul2025 00:27:22.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: msg @e me crasheo XD<--[HERE]
-[25Jul2025 00:27:39.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: me crasheo XD
-[25Jul2025 00:27:39.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: me crasheo XD
-[25Jul2025 00:27:47.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> xd
-[25Jul2025 00:28:23.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Anzu_ara: y gustambo?
-[25Jul2025 00:28:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to joaocover: y gustambo?
-[25Jul2025 00:28:32.454] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:36373] logged in with entity id 51914 at (785.365355426156, 68.0, 2504.6987642392032)
-[25Jul2025 00:28:32.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jul2025 00:28:32.497] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
-[25Jul2025 00:28:33.952] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
-[25Jul2025 00:28:33.953] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
-[25Jul2025 00:28:40.391] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[25Jul2025 00:28:41.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[25Jul2025 00:28:41.407] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
-[25Jul2025 00:28:48.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ac52b3cf-fd3c-335b-bd53-67f31375a168 timed out
-[25Jul2025 00:28:48.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Anzu_ara
-[25Jul2025 00:28:48.711] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
-[25Jul2025 00:29:01.458] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
-[25Jul2025 00:29:01.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jul2025 00:29:01.460] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
-[25Jul2025 00:29:01.500] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
-[25Jul2025 00:29:01.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
-[25Jul2025 00:29:01.501] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
-[25Jul2025 00:29:48.455] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: asrielmanrique[/127.228.234.214:52581] logged in with entity id 52332 at (851.8505927997635, 62.16131642191004, 2492.0127934301677)
-[25Jul2025 00:29:48.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique joined the game
-[25Jul2025 00:29:48.505] [Server thread/INFO] [Jade/]: Syncing config to asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0)
-[25Jul2025 00:29:49.642] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of asrielmanrique (18)
-[25Jul2025 00:29:49.643] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to asrielmanrique
-[25Jul2025 00:29:55.986] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 93160725-4002-3d1f-9267-650f17d3bbf0
-[25Jul2025 00:29:56.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 93160725-4002-3d1f-9267-650f17d3bbf0
-[25Jul2025 00:29:56.987] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player asrielmanrique (93160725-4002-3d1f-9267-650f17d3bbf0) successfully connected to voice chat
-[25Jul2025 00:30:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <asrielmanrique> porqye tan lleno bro?
-[25Jul2025 00:30:55.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.108.89.213:36405] logged in with entity id 52665 at (800.4777605649717, 72.0, 2457.2845368063054)
-[25Jul2025 00:30:55.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[25Jul2025 00:30:55.788] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
-[25Jul2025 00:30:56.572] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
-[25Jul2025 00:30:56.573] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
-[25Jul2025 00:31:02.690] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 00:31:02.790] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:31:02.791] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 00:31:03.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 00:31:03.694] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
-[25Jul2025 00:31:27.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> agregame
-[25Jul2025 00:31:32.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was burnt to a crisp whilst fighting C0LIGAMES
-[25Jul2025 00:31:32.556] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:31:32.556] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 00:34:19.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8023709326537061
-[25Jul2025 00:34:20.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8172448720331171
-[25Jul2025 00:34:20.796] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6504313724244387
-[25Jul2025 00:34:25.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Best Friends Forever]
-[25Jul2025 00:34:25.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Free Willy]
-[25Jul2025 00:34:37.669] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5236422230905243
-[25Jul2025 00:34:38.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5041753938788542
-[25Jul2025 00:34:38.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6330227212164926
-[25Jul2025 00:34:41.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5314614024491675
-[25Jul2025 00:34:41.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.2296320274995196
-[25Jul2025 00:34:41.295] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.9432482203606014
-[25Jul2025 00:34:41.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5780747157996302
-[25Jul2025 00:34:41.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5900767212465325
-[25Jul2025 00:34:41.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.600756470008946
-[25Jul2025 00:34:41.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6102486794757169
-[25Jul2025 00:34:41.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6186254637054844
-[25Jul2025 00:34:41.599] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6260137873964595
-[25Jul2025 00:34:41.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6232110950941205
-[25Jul2025 00:34:41.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6207391204829946
-[25Jul2025 00:34:41.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6185588388761971
-[25Jul2025 00:34:41.798] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6259550242971272
-[25Jul2025 00:34:41.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6324784598382394
-[25Jul2025 00:34:41.898] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6382321299856812
-[25Jul2025 00:34:41.947] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6433068670553439
-[25Jul2025 00:34:41.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6477827851508664
-[25Jul2025 00:34:42.048] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5537448117306667
-[25Jul2025 00:34:42.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4708033191736831
-[25Jul2025 00:34:42.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.39848509342800753
-[25Jul2025 00:34:42.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.33470041831969866
-[25Jul2025 00:34:42.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.27844233487485326
-[25Jul2025 00:35:10.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5349140468738369
-[25Jul2025 00:35:10.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.3396359036023568
-[25Jul2025 00:35:10.254] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 2.1370082611110774
-[25Jul2025 00:35:10.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 2.9274648875610834
-[25Jul2025 00:35:10.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5077252482742551
-[25Jul2025 00:35:10.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5016204227572416
-[25Jul2025 00:35:10.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4953668929920241
-[25Jul2025 00:35:10.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4808125153090259
-[25Jul2025 00:35:10.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4527451641938569
-[25Jul2025 00:35:10.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.157303787761985
-[25Jul2025 00:35:10.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.38790405341433143
-[25Jul2025 00:35:10.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3598424475326283
-[25Jul2025 00:35:10.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.0407607765448201
-[25Jul2025 00:35:10.836] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3132623144510944
-[25Jul2025 00:35:10.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2940084337674307
-[25Jul2025 00:35:10.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.9998904980719971
-[25Jul2025 00:35:10.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.7706625067606614
-[25Jul2025 00:35:11.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 2.5512599472844055
-[25Jul2025 00:35:19.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8287517227710687
-[25Jul2025 00:35:19.937] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8287517227710687
-[25Jul2025 00:36:10.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.7951332710193921
-[25Jul2025 00:36:10.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.7951332710193921
-[25Jul2025 00:36:23.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4169283348997433
-[25Jul2025 00:36:25.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4394001790593876
-[25Jul2025 00:36:35.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.518601248178637
-[25Jul2025 00:36:37.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5695775180048486
-[25Jul2025 00:36:37.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.3478778863508296
-[25Jul2025 00:36:37.353] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 2.1260796407528915
-[25Jul2025 00:36:37.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 2.904194417656413
-[25Jul2025 00:36:37.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 3.682232480406242
-[25Jul2025 00:36:37.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.554946744026438
-[25Jul2025 00:36:37.550] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.3061537704174953
-[25Jul2025 00:36:37.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4610985505273675
-[25Jul2025 00:36:37.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.38659228639539833
-[25Jul2025 00:36:37.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.32803934396240453
-[25Jul2025 00:36:37.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.926858743887449
-[25Jul2025 00:36:37.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.28957276379108565
-[25Jul2025 00:36:37.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3093151762356183
-[25Jul2025 00:36:37.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.9959070838830122
-[25Jul2025 00:36:37.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3468588209158497
-[25Jul2025 00:36:37.998] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.0567925503196003
-[25Jul2025 00:36:38.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3827186289763821
-[25Jul2025 00:36:38.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.1076240905830734
-[25Jul2025 00:36:38.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4246451531424782
-[25Jul2025 00:36:38.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4498734868587917
-[25Jul2025 00:36:38.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.47212487719650653
-[25Jul2025 00:36:38.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4917506034744292
-[25Jul2025 00:36:38.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.2138874361842829
-[25Jul2025 00:36:38.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5243278175405521
-[25Jul2025 00:36:38.451] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5377935968579095
-[25Jul2025 00:36:38.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5496704142158251
-[25Jul2025 00:36:38.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5601457671255048
-[25Jul2025 00:36:38.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5693850283918209
-[25Jul2025 00:36:38.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5775340568286538
-[25Jul2025 00:36:38.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5847214999099606
-[25Jul2025 00:36:38.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5910608247077107
-[25Jul2025 00:36:38.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5966521091793311
-[25Jul2025 00:36:38.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.6015836220832398
-[25Jul2025 00:36:38.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.6056285969375494
-[25Jul2025 00:36:38.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5936980379378838
-[25Jul2025 00:36:38.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5532821487480533
-[25Jul2025 00:36:39.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5122578154241637
-[25Jul2025 00:36:39.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.1971668263904576
-[25Jul2025 00:36:39.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4441605399558739
-[25Jul2025 00:36:39.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.0717178542881811
-[25Jul2025 00:36:39.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4002676105963019
-[25Jul2025 00:36:39.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.41527380545630876
-[25Jul2025 00:36:39.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4342002817817274
-[25Jul2025 00:36:39.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.45473963187657773
-[25Jul2025 00:36:39.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4744343000867275
-[25Jul2025 00:36:39.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.49143746565903257
-[25Jul2025 00:36:39.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.2067063808866578
-[25Jul2025 00:36:39.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5196614282685914
-[25Jul2025 00:36:39.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5313277927155013
-[25Jul2025 00:36:39.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 1.2817799764069377
-[25Jul2025 00:36:39.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.5500964744344401
-[25Jul2025 00:36:39.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4605426008622544
-[25Jul2025 00:36:39.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.38155608437148203
-[25Jul2025 00:36:39.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3118899768267056
-[25Jul2025 00:36:39.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.2504444699720807
-[25Jul2025 00:36:41.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.6735017669507511
-[25Jul2025 00:36:41.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.6105624701345898
-[25Jul2025 00:36:42.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.7343334083909773
-[25Jul2025 00:36:46.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.49243524640518804
-[25Jul2025 00:36:47.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.40384948128780707
-[25Jul2025 00:36:49.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3441960780376754
-[25Jul2025 00:36:51.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4077138478311902
-[25Jul2025 00:36:58.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.3698856549602957
-[25Jul2025 00:37:00.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.695678765635033
-[25Jul2025 00:37:00.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.695678765635033
-[25Jul2025 00:37:00.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of asrielmanrique) moved wrongly! 0.4311786062674475
-[25Jul2025 00:38:00.138] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
-[25Jul2025 00:38:33.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique has made the advancement [Who You Gonna Call?]
-[25Jul2025 00:38:43.904] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
-[25Jul2025 00:39:05.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Sea Serpent
-[25Jul2025 00:39:06.110] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:39:06.111] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 00:39:18.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Sea? Not a Problem]
-[25Jul2025 00:40:39.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique was slain by Zombie
-[25Jul2025 00:40:39.665] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:40:39.665] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 00:40:42.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by Skeleton
-[25Jul2025 00:40:42.866] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-00.40.42.dat
-[25Jul2025 00:40:43.023] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:40:43.023] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 00:41:03.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Ghost
-[25Jul2025 00:41:03.225] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:41:03.225] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 00:41:28.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique drowned
-[25Jul2025 00:41:28.906] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:41:28.906] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 00:44:12.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
-[25Jul2025 00:44:16.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jul2025 00:44:16.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jul2025 00:44:16.538] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
-[25Jul2025 00:44:22.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: C0LIGAMES[/127.53.118.236:53549] logged in with entity id 60333 at (613.2224592060005, 85.0, 2887.105004464425)
-[25Jul2025 00:44:22.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES joined the game
-[25Jul2025 00:44:22.930] [Server thread/INFO] [Jade/]: Syncing config to C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7)
-[25Jul2025 00:44:23.318] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of C0LIGAMES (18)
-[25Jul2025 00:44:23.319] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to C0LIGAMES
-[25Jul2025 00:44:26.491] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[25Jul2025 00:44:27.497] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7
-[25Jul2025 00:44:27.498] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player C0LIGAMES (599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7) successfully connected to voice chat
-[25Jul2025 00:44:28.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 00:44:30.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> holas
-[25Jul2025 00:45:21.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 00:46:05.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd timed out
-[25Jul2025 00:46:05.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player joaocover
-[25Jul2025 00:46:05.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
-[25Jul2025 00:46:12.137] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
-[25Jul2025 00:46:12.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jul2025 00:46:12.137] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
-[25Jul2025 00:46:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 00:47:41.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: asrielmanrique lost connection: Disconnected
-[25Jul2025 00:47:41.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: asrielmanrique left the game
-[25Jul2025 00:47:41.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client asrielmanrique
-[25Jul2025 00:50:07.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: UnMarshelo[/127.45.164.17:56213] logged in with entity id 61544 at (-1326.5984153235547, 79.5625, -115.53742535357615)
-[25Jul2025 00:50:07.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo joined the game
-[25Jul2025 00:50:07.633] [Server thread/INFO] [Jade/]: Syncing config to UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38)
-[25Jul2025 00:50:09.478] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of UnMarshelo (18)
-[25Jul2025 00:50:09.478] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to UnMarshelo
-[25Jul2025 00:50:14.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
-[25Jul2025 00:50:15.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 3dc7566d-df20-34d3-a4db-a631d4cd4f38
-[25Jul2025 00:50:15.798] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player UnMarshelo (3dc7566d-df20-34d3-a4db-a631d4cd4f38) successfully connected to voice chat
-[25Jul2025 00:51:51.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> edys chat de vo<?
-[25Jul2025 00:52:12.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> prefiero estar de chil escuchando musica
-[25Jul2025 00:52:22.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo fell from a high place
-[25Jul2025 00:52:23.011] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:52:23.011] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 00:53:06.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:43595] logged in with entity id 63350 at (614.8679184178812, 97.0, 2883.5094761812975)
-[25Jul2025 00:53:06.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[25Jul2025 00:53:06.464] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
-[25Jul2025 00:53:07.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
-[25Jul2025 00:53:07.408] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
-[25Jul2025 00:53:11.528] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 00:53:12.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 00:53:12.530] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
-[25Jul2025 00:56:21.081] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
-[25Jul2025 00:56:21.082] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-57, z=143}
-[25Jul2025 00:56:21.082] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-58, z=137}
-[25Jul2025 00:58:11.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Drowned
-[25Jul2025 00:58:11.466] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 00:58:11.467] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 00:58:14.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 00:58:39.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1340, y=80, z=-120} BlockPos{x=-1340, y=80, z=-121}
-[25Jul2025 00:58:40.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1343, y=81, z=-121} BlockPos{x=-1342, y=80, z=-122}
-[25Jul2025 00:59:27.950] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[25Jul2025 01:00:17.557] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 01:00:48.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:34495] logged in with entity id 68072 at (-1060.049369210299, 121.0, -706.2286006616124)
-[25Jul2025 01:00:48.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
-[25Jul2025 01:00:48.793] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
-[25Jul2025 01:00:50.443] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
-[25Jul2025 01:00:50.444] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
-[25Jul2025 01:01:07.234] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
-[25Jul2025 01:01:08.230] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
-[25Jul2025 01:01:08.231] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
-[25Jul2025 01:01:54.927] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
-[25Jul2025 01:01:54.928] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
-[25Jul2025 01:01:55.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Drowned
-[25Jul2025 01:01:55.402] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:01:55.403] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 01:02:02.365] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
-[25Jul2025 01:02:02.365] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
-[25Jul2025 01:02:02.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara has made the advancement [Settling In]
-[25Jul2025 01:02:29.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> zuemy???
-[25Jul2025 01:02:33.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [My Name is Nobody]
-[25Jul2025 01:02:39.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> si
-[25Jul2025 01:02:44.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO
-[25Jul2025 01:02:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> TE SACO
-[25Jul2025 01:02:54.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> NO MATES A NINGUNA ALDEANA
-[25Jul2025 01:02:55.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3919470092540678
-[25Jul2025 01:02:55.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.9315033411377271
-[25Jul2025 01:02:56.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.4818250988381578
-[25Jul2025 01:02:56.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.0416419621089972
-[25Jul2025 01:02:56.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.43278792195917504
-[25Jul2025 01:02:56.157] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.44017439246488266
-[25Jul2025 01:02:56.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.44668925945097726
-[25Jul2025 01:02:56.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4524353721326406
-[25Jul2025 01:02:56.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4575034435179077
-[25Jul2025 01:02:56.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4619734824797206
-[25Jul2025 01:02:56.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4659160568439802
-[25Jul2025 01:02:56.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.070713088702064
-[25Jul2025 01:02:56.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4724604306530864
-[25Jul2025 01:02:56.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.47516554513299525
-[25Jul2025 01:02:56.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.47755145610415184
-[25Jul2025 01:02:56.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.47965582958079267
-[25Jul2025 01:02:56.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8273564887895083
-[25Jul2025 01:02:57.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.828978779852499
-[25Jul2025 01:02:58.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.756759262582105
-[25Jul2025 01:02:58.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7799069717437906
-[25Jul2025 01:02:58.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.78587794397617
-[25Jul2025 01:03:06.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Anzu_ara> pero son mios xd
-[25Jul2025 01:03:30.159] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.32236710227591014
-[25Jul2025 01:03:31.900] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5100501460390087
-[25Jul2025 01:03:32.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4251327671946575
-[25Jul2025 01:03:32.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.4251327671946575
-[25Jul2025 01:03:38.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.32738933811630194
-[25Jul2025 01:03:38.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.31759454817172755
-[25Jul2025 01:03:51.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2766964933048257
-[25Jul2025 01:03:51.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.0817615384657984
-[25Jul2025 01:03:51.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.8892234830682355
-[25Jul2025 01:03:51.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.28392503111626866
-[25Jul2025 01:03:51.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2857011183332361
-[25Jul2025 01:03:51.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2874386416924608
-[25Jul2025 01:03:51.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.288971137295448
-[25Jul2025 01:03:51.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.0074678436858449
-[25Jul2025 01:03:52.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.2977159199617745
-[25Jul2025 01:03:52.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6454786944514126
-[25Jul2025 01:03:52.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.957260696805406
-[25Jul2025 01:03:56.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3181269019097499
-[25Jul2025 01:03:56.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7090782538748499
-[25Jul2025 01:03:56.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.152532143971687
-[25Jul2025 01:03:56.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.323459256798742
-[25Jul2025 01:03:56.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7165861281488333
-[25Jul2025 01:03:56.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3230793295716694
-[25Jul2025 01:03:56.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.3229222867937551
-[25Jul2025 01:03:56.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.32278377506361267
-[25Jul2025 01:03:56.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.27392307230741153
-[25Jul2025 01:03:56.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5771481111531784
-[25Jul2025 01:04:02.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8244089303215516
-[25Jul2025 01:04:02.670] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8019955600198427
-[25Jul2025 01:04:04.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.425592389884514
-[25Jul2025 01:04:04.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.5601542733005545
-[25Jul2025 01:04:07.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6949069519508748
-[25Jul2025 01:04:08.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7581293379998908
-[25Jul2025 01:04:11.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6097028876894368
-[25Jul2025 01:04:11.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6097028876894368
-[25Jul2025 01:04:11.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 1.215214804311965
-[25Jul2025 01:04:11.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6202384975801801
-[25Jul2025 01:04:11.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6491917259303155
-[25Jul2025 01:04:11.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.6659241059830602
-[25Jul2025 01:04:17.248] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[25Jul2025 01:04:19.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.817417213122855
-[25Jul2025 01:04:20.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8312368771584682
-[25Jul2025 01:04:20.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.7553838817661346
-[25Jul2025 01:04:31.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported C0LIGAMES to joaocover]
-[25Jul2025 01:04:34.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.32790295286699034
-[25Jul2025 01:04:34.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.32790295286699034
-[25Jul2025 01:04:37.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5722ms or 114 ticks behind
-[25Jul2025 01:05:35.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of joaocover) moved wrongly! 0.8251086583187526
-[25Jul2025 01:05:37.995] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Winnie zian'/68087, l='ServerLevel[world]', x=-1057.29, y=120.00, z=-712.32] died, message: 'Winnie zian suffocated in a wall'
-[25Jul2025 01:05:37.995] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Winnie zian'/68087, l='ServerLevel[world]', x=-1057.29, y=120.00, z=-712.32] died: Winnie zian suffocated in a wall
-[25Jul2025 01:06:11.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[25Jul2025 01:06:28.558] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2382ms or 47 ticks behind
-[25Jul2025 01:06:45.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2394ms or 47 ticks behind
-[25Jul2025 01:07:01.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
-[25Jul2025 01:07:01.857] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:07:01.857] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 01:07:05.224] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4349ms or 86 ticks behind
-[25Jul2025 01:07:23.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
-[25Jul2025 01:07:41.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3271ms or 65 ticks behind
-[25Jul2025 01:08:00.456] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3981ms or 79 ticks behind
-[25Jul2025 01:08:19.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
-[25Jul2025 01:08:38.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4451ms or 89 ticks behind
-[25Jul2025 01:08:59.087] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5112ms or 102 ticks behind
-[25Jul2025 01:09:17.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
-[25Jul2025 01:09:37.050] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4875ms or 97 ticks behind
-[25Jul2025 01:09:56.291] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4266ms or 85 ticks behind
-[25Jul2025 01:10:15.350] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4075ms or 81 ticks behind
-[25Jul2025 01:10:22.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was shot by C0LIGAMES
-[25Jul2025 01:10:22.504] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.fox_25.07.2025-01.10.22.dat
-[25Jul2025 01:10:22.677] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:10:22.677] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:10:36.041] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5716ms or 114 ticks behind
-[25Jul2025 01:10:49.977] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
-[25Jul2025 01:10:49.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
-[25Jul2025 01:10:49.979] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
-[25Jul2025 01:10:54.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3414ms or 68 ticks behind
-[25Jul2025 01:11:08.995] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:35755] logged in with entity id 77524 at (-1042.640556183251, -59.0, -768.6513993983713)
-[25Jul2025 01:11:09.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
-[25Jul2025 01:11:09.017] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
-[25Jul2025 01:11:09.427] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
-[25Jul2025 01:11:09.427] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
-[25Jul2025 01:11:11.115] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ac52b3cf-fd3c-335b-bd53-67f31375a168
-[25Jul2025 01:11:12.056] [Server thread/INFO] [Scaling Health/]: Blight Stymphalian Bird was killed by C0LIGAMES
-[25Jul2025 01:11:12.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Herc was on a Roll!]
-[25Jul2025 01:11:12.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ac52b3cf-fd3c-335b-bd53-67f31375a168
-[25Jul2025 01:11:12.124] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168) successfully connected to voice chat
-[25Jul2025 01:11:16.886] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[25Jul2025 01:11:23.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Spider
-[25Jul2025 01:11:23.648] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:11:23.648] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 01:11:38.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo fell from a high place
-[25Jul2025 01:11:38.703] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:11:38.703] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 01:11:50.928] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[25Jul2025 01:11:54.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo fell from a high place
-[25Jul2025 01:11:54.154] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Timed out
-[25Jul2025 01:11:54.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
-[25Jul2025 01:11:54.154] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
-[25Jul2025 01:11:54.314] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:11:54.314] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 01:12:08.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Anzu_ara[/127.132.15.99:57545] logged in with entity id 78399 at (-1042.3126010536441, -57.799999952316284, -768.6581882054269)
-[25Jul2025 01:12:08.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara joined the game
-[25Jul2025 01:12:08.390] [Server thread/INFO] [Jade/]: Syncing config to Anzu_ara (ac52b3cf-fd3c-335b-bd53-67f31375a168)
-[25Jul2025 01:12:08.741] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Anzu_ara (18)
-[25Jul2025 01:12:08.741] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Anzu_ara
-[25Jul2025 01:12:16.776] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[25Jul2025 01:12:23.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Anzu_ara lost connection: Disconnected
-[25Jul2025 01:12:23.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Anzu_ara left the game
-[25Jul2025 01:12:23.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Anzu_ara
-[25Jul2025 01:13:44.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
-[25Jul2025 01:13:44.975] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:13:44.976] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 01:13:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES has made the advancement [Welcome To The Machine]
-[25Jul2025 01:14:02.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/79531, l='ServerLevel[world]', x=991.66, y=128.17, z=1950.46] died: Gearling was slain by joaocover
-[25Jul2025 01:14:40.020] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/79491, l='ServerLevel[world]', x=992.19, y=129.00, z=1950.35] died: Gearling was slain by joaocover
-[25Jul2025 01:15:17.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to 954.830000, 156.000000, 1934.690000]
-[25Jul2025 01:16:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was blown up by Creeper
-[25Jul2025 01:16:53.571] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:16:53.571] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 01:17:36.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to 958.310000, 165.060000, 1934.630000]
-[25Jul2025 01:21:37.760] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by C0LIGAMES
-[25Jul2025 01:21:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover has made the advancement [Cover Me with Diamonds]
-[25Jul2025 01:21:55.266] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 01:21:55.465] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 01:23:52.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was crushed by a falling tree
-[25Jul2025 01:23:52.468] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:23:52.468] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 01:24:01.015] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83422, l='ServerLevel[world]', x=952.05, y=186.00, z=1933.88] died: Gearling was slain by joaocover
-[25Jul2025 01:24:25.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Gearling
-[25Jul2025 01:24:25.762] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-01.24.25.dat
-[25Jul2025 01:24:25.915] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:24:25.916] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 01:24:26.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83190, l='ServerLevel[world]', x=953.35, y=190.42, z=1944.85] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:24:27.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83505, l='ServerLevel[world]', x=953.41, y=191.00, z=1945.17] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:24:27.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83661, l='ServerLevel[world]', x=953.75, y=190.80, z=1944.68] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:24:35.324] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83678, l='ServerLevel[world]', x=960.35, y=190.00, z=1941.24] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:24:41.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83412, l='ServerLevel[world]', x=955.50, y=190.00, z=1937.48] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:24:42.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83379, l='ServerLevel[world]', x=956.47, y=190.00, z=1937.51] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:24:50.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83267, l='ServerLevel[world]', x=954.66, y=190.00, z=1934.60] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:24:53.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83878, l='ServerLevel[world]', x=956.26, y=190.00, z=1935.47] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:24:56.863] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 01:25:28.809] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83814, l='ServerLevel[world]', x=949.54, y=190.36, z=1934.09] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:25:30.762] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83236, l='ServerLevel[world]', x=949.27, y=182.50, z=1937.48] died: Gearling was slain by joaocover
-[25Jul2025 01:25:41.103] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83718, l='ServerLevel[world]', x=951.69, y=181.50, z=1936.94] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:26:07.967] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83154, l='ServerLevel[world]', x=954.15, y=195.00, z=1942.88] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:27:21.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83114, l='ServerLevel[world]', x=965.36, y=207.00, z=1937.57] died: Gearling was slain by joaocover
-[25Jul2025 01:27:37.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:27:37.661] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-01.27.37.dat
-[25Jul2025 01:27:37.824] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:27:37.824] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:29:46.087] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83106, l='ServerLevel[world]', x=956.51, y=207.00, z=1940.66] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:30:00.966] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83137, l='ServerLevel[world]', x=955.61, y=207.36, z=1938.33] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:30:16.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83158, l='ServerLevel[world]', x=956.50, y=207.00, z=1939.85] died: Gearling was slain by joaocover
-[25Jul2025 01:30:36.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:30:36.957] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-01.30.36.dat
-[25Jul2025 01:30:37.164] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:30:37.164] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:33:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
-[25Jul2025 01:33:23.625] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:33:23.625] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 01:34:33.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:34:33.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:34:33.461] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:38:45.067] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89524, l='ServerLevel[world]', x=951.30, y=224.64, z=1932.37] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:38:58.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89683, l='ServerLevel[world]', x=959.87, y=226.29, z=1926.57] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:38:58.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89649, l='ServerLevel[world]', x=960.85, y=226.00, z=1926.78] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:38:58.872] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89664, l='ServerLevel[world]', x=960.20, y=226.00, z=1926.87] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:38:59.758] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89562, l='ServerLevel[world]', x=959.95, y=226.15, z=1926.65] died: Gearling was killed trying to hurt C0LIGAMES
-[25Jul2025 01:39:38.264] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89813, l='ServerLevel[world]', x=964.79, y=227.00, z=1933.68] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:39:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Gearling
-[25Jul2025 01:39:42.768] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-01.39.42.dat
-[25Jul2025 01:39:42.903] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:39:42.903] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:39:46.570] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89825, l='ServerLevel[world]', x=962.82, y=224.00, z=1942.08] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:39:46.571] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89830, l='ServerLevel[world]', x=962.64, y=224.00, z=1942.59] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:39:46.572] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89833, l='ServerLevel[world]', x=962.42, y=224.00, z=1942.33] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:39:51.722] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89969, l='ServerLevel[world]', x=960.12, y=224.06, z=1941.91] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:40:01.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [C0LIGAMES: Teleported joaocover to 959.410000, 224.000000, 1939.230000]
-[25Jul2025 01:41:18.447] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90585, l='ServerLevel[world]', x=964.76, y=229.00, z=1940.14] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:41:29.261] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90657, l='ServerLevel[world]', x=951.70, y=229.00, z=1940.06] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:41:39.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89690, l='ServerLevel[world]', x=959.15, y=229.00, z=1943.85] died: Gearling was doomed to fall by C0LIGAMES
-[25Jul2025 01:41:40.868] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89676, l='ServerLevel[world]', x=959.02, y=233.00, z=1937.13] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:41:42.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90771, l='ServerLevel[world]', x=959.15, y=233.00, z=1936.51] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:41:45.711] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90842, l='ServerLevel[world]', x=959.68, y=233.00, z=1936.89] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:41:45.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90593, l='ServerLevel[world]', x=958.51, y=233.50, z=1936.51] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:42:02.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89921, l='ServerLevel[world]', x=952.15, y=233.00, z=1939.91] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:42:24.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Gearling
-[25Jul2025 01:42:24.561] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-01.42.24.dat
-[25Jul2025 01:42:24.723] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:42:24.723] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:42:37.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:42:41.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
-[25Jul2025 01:42:41.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jul2025 01:42:41.911] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
-[25Jul2025 01:43:23.112] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4db79f06[id=<null>,name=joaocover,properties={},legacy=false] (/127.58.185.232:43773) lost connection: Disconnected
-[25Jul2025 01:43:40.368] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4461adee[id=<null>,name=joaocover,properties={},legacy=false] (/127.58.185.232:32963) lost connection: Disconnected
-[25Jul2025 01:44:05.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:38045] logged in with entity id 91809 at (963.174767633004, 236.76636799395752, 1937.699999988079)
-[25Jul2025 01:44:05.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[25Jul2025 01:44:05.506] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
-[25Jul2025 01:44:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was doomed to fall by Zombie
-[25Jul2025 01:44:06.561] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:44:06.562] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 01:44:07.313] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
-[25Jul2025 01:44:07.313] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
-[25Jul2025 01:44:24.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:44:24.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:44:24.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:44:25.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:44:25.039] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
-[25Jul2025 01:44:35.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Kicked for spamming
-[25Jul2025 01:44:35.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jul2025 01:44:35.113] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
-[25Jul2025 01:44:48.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:58533] logged in with entity id 92038 at (959.5, 224.0, 1938.5)
-[25Jul2025 01:44:48.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[25Jul2025 01:44:48.476] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
-[25Jul2025 01:44:48.844] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
-[25Jul2025 01:44:48.844] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
-[25Jul2025 01:45:00.383] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:45:01.394] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:45:01.395] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
-[25Jul2025 01:45:13.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
-[25Jul2025 01:45:30.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90589, l='ServerLevel[world]', x=965.25, y=230.00, z=1937.62] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:45:38.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/90909, l='ServerLevel[world]', x=963.95, y=227.00, z=1933.41] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:45:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CHAT
-[25Jul2025 01:45:48.619] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/89560, l='ServerLevel[world]', x=963.63, y=236.50, z=1937.55] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:45:53.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> q
-[25Jul2025 01:45:55.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by C0LIGAMES
-[25Jul2025 01:45:58.262] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:45:58.263] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 01:45:59.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 01:46:30.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo fell from a high place
-[25Jul2025 01:46:30.610] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:46:30.610] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 01:47:45.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:47:45.903] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for joaocover with unique ID travelersbackpack.bat_25.07.2025-01.47.45.dat
-[25Jul2025 01:47:46.063] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:47:46.063] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:48:03.813] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
-[25Jul2025 01:48:03.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jul2025 01:48:03.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
-[25Jul2025 01:48:29.360] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@326676f9[id=<null>,name=joaocover,properties={},legacy=false] (/127.58.185.232:35589) lost connection: Disconnected
-[25Jul2025 01:48:31.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93267, l='ServerLevel[world]', x=960.61, y=241.00, z=1936.06] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:48:33.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:47103] logged in with entity id 93326 at (965.7213442446242, 235.5, 1937.699999988079)
-[25Jul2025 01:48:33.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[25Jul2025 01:48:34.057] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
-[25Jul2025 01:48:34.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93279, l='ServerLevel[world]', x=959.67, y=241.00, z=1934.11] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:48:34.770] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
-[25Jul2025 01:48:34.770] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
-[25Jul2025 01:48:50.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> XD
-[25Jul2025 01:48:56.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> ME DA BAJONES
-[25Jul2025 01:49:00.290] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:49:01.287] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:49:01.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
-[25Jul2025 01:49:04.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
-[25Jul2025 01:49:04.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jul2025 01:49:04.063] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
-[25Jul2025 01:49:04.205] [Server thread/INFO] [Scaling Health/]: Blight Gearling was killed by C0LIGAMES
-[25Jul2025 01:49:04.206] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93352, l='ServerLevel[world]', x=959.60, y=241.00, z=1934.18] died: Gearling was shot by C0LIGAMES
-[25Jul2025 01:49:07.863] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93480, l='ServerLevel[world]', x=958.15, y=241.00, z=1935.10] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:49:09.882] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:35415] logged in with entity id 93621 at (965.7213442446242, 235.5, 1937.699999988079)
-[25Jul2025 01:49:09.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[25Jul2025 01:49:09.988] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
-[25Jul2025 01:49:10.341] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
-[25Jul2025 01:49:10.341] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
-[25Jul2025 01:49:28.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO INVESTIGUES NADA MAS
-[25Jul2025 01:49:33.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:49:34.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:49:34.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
-[25Jul2025 01:49:40.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> CULMINAREMOS DESPUES
-[25Jul2025 01:49:47.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93815, l='ServerLevel[world]', x=958.84, y=241.00, z=1934.00] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:49:47.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93821, l='ServerLevel[world]', x=958.91, y=241.00, z=1933.83] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:49:47.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93620, l='ServerLevel[world]', x=958.91, y=241.00, z=1934.80] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:49:47.318] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93545, l='ServerLevel[world]', x=959.77, y=241.00, z=1933.93] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:49:51.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93498, l='ServerLevel[world]', x=958.89, y=241.00, z=1934.82] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:50:00.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93870, l='ServerLevel[world]', x=958.94, y=241.00, z=1934.16] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:50:02.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Zombie
-[25Jul2025 01:50:02.667] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:50:02.667] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 01:50:06.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93924, l='ServerLevel[world]', x=958.97, y=241.00, z=1934.19] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:50:17.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:50:17.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:50:17.724] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:50:29.861] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/93996, l='ServerLevel[world]', x=959.00, y=241.00, z=1934.31] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:50:38.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94086, l='ServerLevel[world]', x=960.43, y=241.00, z=1935.44] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:50:42.064] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 01:50:42.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:50:42.238] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 01:50:43.315] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:50:43.315] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:50:56.464] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94420, l='ServerLevel[world]', x=948.61, y=241.00, z=1934.37] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:50:56.465] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94334, l='ServerLevel[world]', x=948.24, y=241.00, z=1934.66] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:50:59.313] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94335, l='ServerLevel[world]', x=948.57, y=241.00, z=1934.89] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:05.164] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94522, l='ServerLevel[world]', x=949.13, y=241.00, z=1936.91] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:06.068] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94501, l='ServerLevel[world]', x=948.27, y=241.00, z=1936.44] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:12.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94298, l='ServerLevel[world]', x=957.05, y=241.00, z=1928.95] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:12.034] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94307, l='ServerLevel[world]', x=957.04, y=241.00, z=1927.96] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:22.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:51:22.921] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:51:22.921] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:51:26.420] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94526, l='ServerLevel[world]', x=956.64, y=241.00, z=1928.28] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:38.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover was slain by Skeleton
-[25Jul2025 01:51:40.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Timed out
-[25Jul2025 01:51:40.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jul2025 01:51:40.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
-[25Jul2025 01:51:41.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94643, l='ServerLevel[world]', x=956.94, y=241.00, z=1928.86] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:43.715] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94700, l='ServerLevel[world]', x=956.05, y=241.00, z=1928.16] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:43.716] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94711, l='ServerLevel[world]', x=957.04, y=241.00, z=1927.96] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:45.267] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94612, l='ServerLevel[world]', x=956.28, y=241.00, z=1927.94] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:45.268] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94695, l='ServerLevel[world]', x=956.97, y=241.00, z=1929.05] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:46.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94751, l='ServerLevel[world]', x=957.06, y=241.00, z=1928.75] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:51:46.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: joaocover[/127.58.185.232:40759] logged in with entity id 94811 at (962.6804890065899, 236.5, 1937.699999988079)
-[25Jul2025 01:51:46.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover joined the game
-[25Jul2025 01:51:47.007] [Server thread/INFO] [Jade/]: Syncing config to joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd)
-[25Jul2025 01:51:47.415] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of joaocover (18)
-[25Jul2025 01:51:47.415] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to joaocover
-[25Jul2025 01:51:49.462] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 01:51:56.962] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94613, l='ServerLevel[world]', x=957.16, y=241.00, z=1927.84] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:52:05.124] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:52:05.124] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 01:52:06.465] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:52:07.466] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd
-[25Jul2025 01:52:07.467] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player joaocover (ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd) successfully connected to voice chat
-[25Jul2025 01:52:34.759] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94036, l='ServerLevel[world]', x=949.06, y=257.08, z=1936.15] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:53:00.620] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94045, l='ServerLevel[world]', x=958.41, y=258.00, z=1928.54] died: Gearling was slain by C0LIGAMES
-[25Jul2025 01:53:05.517] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 01:53:16.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> causa para mañna
-[25Jul2025 01:53:21.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> XD
-[25Jul2025 01:53:24.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
-[25Jul2025 01:53:24.319] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 01:53:24.319] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 01:53:27.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <joaocover> NO INVESTIGUES NADA
-[25Jul2025 01:53:28.859] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: joaocover lost connection: Disconnected
-[25Jul2025 01:53:28.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: joaocover left the game
-[25Jul2025 01:53:28.860] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client joaocover
-[25Jul2025 01:56:36.255] [Server thread/INFO] [Scaling Health/]: Blight Gearling has died
-[25Jul2025 01:56:36.256] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/94717, l='ServerLevel[world]', x=975.48, y=221.00, z=1933.53] died: Gearling fell from a high place
-[25Jul2025 02:00:52.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Spider
-[25Jul2025 02:00:52.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 02:00:52.317] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 02:02:05.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was doomed to fall by Bok-Hee
-[25Jul2025 02:02:05.779] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 02:02:05.779] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 02:03:00.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> edys
-[25Jul2025 02:03:02.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <C0LIGAMES> chast
-[25Jul2025 02:03:03.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> si?
-[25Jul2025 02:03:08.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <UnMarshelo> ya
-[25Jul2025 02:03:22.118] [Server thread/INFO] [Scaling Health/]: Blight Zombie was killed by C0LIGAMES
-[25Jul2025 02:04:43.573] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:04:43.767] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:04:43.967] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:06:14.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was shot by Skeleton
-[25Jul2025 02:06:14.719] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 02:06:14.720] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 02:06:59.567] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:09:48.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
-[25Jul2025 02:09:49.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 02:09:49.167] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 difficulty
-[25Jul2025 02:10:49.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100140, l='ServerLevel[world]', x=1002.15, y=258.00, z=1936.54] died: Gearling was blown up by Creeper
-[25Jul2025 02:10:49.299] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100600, l='ServerLevel[world]', x=1000.48, y=259.30, z=1939.54] died: Gearling was blown up by Creeper
-[25Jul2025 02:10:49.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100172, l='ServerLevel[world]', x=1002.16, y=258.00, z=1938.17] died: Gearling was blown up by Creeper
-[25Jul2025 02:10:49.300] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/100608, l='ServerLevel[world]', x=1002.28, y=258.00, z=1936.87] died: Gearling was blown up by Creeper
-[25Jul2025 02:15:47.116] [Server thread/INFO] [Scaling Health/]: Blight Skeleton was killed by C0LIGAMES
-[25Jul2025 02:19:17.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
-[25Jul2025 02:19:17.316] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 02:19:17.316] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 02:20:30.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo drowned
-[25Jul2025 02:20:30.671] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 02:20:30.671] [Server thread/INFO] [Scaling Health/]: Player gained 0.00 difficulty
-[25Jul2025 02:24:12.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo was slain by Spider
-[25Jul2025 02:24:12.615] [Server thread/INFO] [Scaling Health/]: Player lost 0.00 heart crystal(s)
-[25Jul2025 02:24:12.615] [Server thread/INFO] [Scaling Health/]: Player lost -0.00 difficulty
-[25Jul2025 02:29:45.369] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106110, l='ServerLevel[world]', x=1014.55, y=212.64, z=1943.89] died: Gearling was slain by C0LIGAMES
-[25Jul2025 02:29:50.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106108, l='ServerLevel[world]', x=1017.33, y=212.36, z=1942.19] died: Gearling was slain by C0LIGAMES
-[25Jul2025 02:29:51.564] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/106097, l='ServerLevel[world]', x=1017.62, y=212.85, z=1942.20] died: Gearling was slain by C0LIGAMES
-[25Jul2025 02:30:02.815] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:30:03.014] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:30:03.362] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:30:03.619] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:30:03.813] [Server thread/WARN] [Scaling Health/]: Another mod seems to have canceled healing from a heart container (player literal{C0LIGAMES})
-[25Jul2025 02:30:07.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: C0LIGAMES lost connection: Disconnected
-[25Jul2025 02:30:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: C0LIGAMES left the game
-[25Jul2025 02:30:07.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client C0LIGAMES
-[25Jul2025 02:30:09.788] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: UnMarshelo lost connection: Disconnected
-[25Jul2025 02:30:09.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: UnMarshelo left the game
-[25Jul2025 02:30:09.788] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client UnMarshelo
-[25Jul2025 02:30:13.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[25Jul2025 02:30:13.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[25Jul2025 02:30:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[25Jul2025 02:30:13.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[25Jul2025 02:30:13.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[25Jul2025 02:30:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/grotesque_steve:stomach
-[25Jul2025 02:30:13.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[25Jul2025 02:30:13.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (stomach): All chunks are saved
-[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[25Jul2025 02:30:13.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18Aug2025 22:41:48.413] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18Aug2025 22:41:48.417] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.16 by Ubuntu; OS Linux arch amd64 version 6.8.0-1030-azure
+[18Aug2025 22:41:48.511] [main/WARN] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Configuration file /workspaces/adwaega/servidor_minecraft/config/fml.toml is not correct. Correcting
+[18Aug2025 22:41:48.512] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSkipGLVersions] was corrected from null to []
+[18Aug2025 22:41:48.513] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowLogHelpMessage] was corrected from null to true
+[18Aug2025 22:41:48.513] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowSquir] was corrected from null to false
+[18Aug2025 22:41:48.513] [main/INFO] [net.minecraftforge.fml.loading.FMLConfig/CORE]: Incorrect key [earlyWindowShowCPU] was corrected from null to false
+[18Aug2025 22:41:48.530] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18Aug2025 22:41:48.582] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/adwaega/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[18Aug2025 22:41:48.789] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/adwaega/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[18Aug2025 22:41:48.790] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/adwaega/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Aug2025 22:41:48.791] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/adwaega/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Aug2025 22:41:48.792] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/adwaega/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[18Aug2025 22:41:48.882] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[18Aug2025 22:41:50.554] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[18Aug2025 22:41:55.894] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[18Aug2025 22:41:55.897] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[18Aug2025 22:41:56.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Aug2025 22:41:56.889] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[18Aug2025 22:41:57.510] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Aug2025 22:41:57.548] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/adwaega/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
+[18Aug2025 22:41:57.549] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/adwaega/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
+[18Aug2025 22:41:59.026] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[18Aug2025 22:41:59.147] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[18Aug2025 22:41:59.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[18Aug2025 22:41:59.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Aug2025 22:41:59.635] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Aug2025 22:41:59.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Aug2025 22:41:59.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Aug2025 22:41:59.735] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Aug2025 22:41:59.810] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Aug2025 22:41:59.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Aug2025 22:41:59.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Aug2025 22:41:59.811] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Aug2025 22:41:59.837] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
+[18Aug2025 22:41:59.838] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Aug2025 22:41:59.838] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringBlockEntities was corrected from null to its default, false. 
+[18Aug2025 22:41:59.839] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
+[18Aug2025 22:41:59.839] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
+[18Aug2025 22:41:59.840] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
+[18Aug2025 22:41:59.840] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
+[18Aug2025 22:41:59.841] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.permissionHandler was corrected from null to its default, forge:default_handler. 
+[18Aug2025 22:41:59.841] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.advertiseDedicatedServerToLan was corrected from null to its default, true. 
+[18Aug2025 22:41:59.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Aug2025 22:42:06.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Aug2025 22:42:06.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 22:42:06.785] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 22:42:07.249] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 22:42:07.791] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 22:42:08.268] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 22:42:08.788] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Aug2025 22:42:09.251] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[18Aug2025 22:42:09.764] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 2%
+[18Aug2025 22:42:10.271] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 3%
+[18Aug2025 22:42:10.754] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[18Aug2025 22:42:11.252] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[18Aug2025 22:42:11.756] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[18Aug2025 22:42:12.279] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[18Aug2025 22:42:12.750] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 9%
+[18Aug2025 22:42:13.256] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 10%
+[18Aug2025 22:42:13.751] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
+[18Aug2025 22:42:14.249] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
+[18Aug2025 22:42:14.749] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 14%
+[18Aug2025 22:42:15.261] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[18Aug2025 22:42:15.749] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[18Aug2025 22:42:16.291] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 19%
+[18Aug2025 22:42:16.749] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 20%
+[18Aug2025 22:42:17.255] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[18Aug2025 22:42:17.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[18Aug2025 22:42:18.260] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[18Aug2025 22:42:18.751] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[18Aug2025 22:42:19.269] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[18Aug2025 22:42:19.748] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[18Aug2025 22:42:20.249] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[18Aug2025 22:42:20.753] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 36%
+[18Aug2025 22:42:21.254] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 38%
+[18Aug2025 22:42:21.750] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 41%
+[18Aug2025 22:42:22.250] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[18Aug2025 22:42:22.749] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[18Aug2025 22:42:23.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[18Aug2025 22:42:23.792] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 49%
+[18Aug2025 22:42:24.269] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 51%
+[18Aug2025 22:42:24.774] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 53%
+[18Aug2025 22:42:25.254] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 54%
+[18Aug2025 22:42:25.749] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[18Aug2025 22:42:26.254] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 60%
+[18Aug2025 22:42:26.751] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 62%
+[18Aug2025 22:42:27.260] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 66%
+[18Aug2025 22:42:27.759] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 68%
+[18Aug2025 22:42:28.248] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[18Aug2025 22:42:28.749] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 73%
+[18Aug2025 22:42:29.260] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 76%
+[18Aug2025 22:42:29.751] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[18Aug2025 22:42:30.249] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[18Aug2025 22:42:30.754] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 84%
+[18Aug2025 22:42:31.259] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
+[18Aug2025 22:42:31.751] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[18Aug2025 22:42:32.253] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
+[18Aug2025 22:42:32.778] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 94%
+[18Aug2025 22:42:33.254] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 97%
+[18Aug2025 22:42:33.528] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 27280 ms
+[18Aug2025 22:42:33.528] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (33.699s)! For help, type "help"
+[18Aug2025 22:42:33.543] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Aug2025 22:43:16.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[18Aug2025 22:43:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[18Aug2025 22:43:16.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[18Aug2025 22:43:16.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[18Aug2025 22:43:17.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18Aug2025 22:43:19.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18Aug2025 22:43:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18Aug2025 22:43:19.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18Aug2025 22:43:19.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18Aug2025 22:43:19.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18Aug2025 22:43:19.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
